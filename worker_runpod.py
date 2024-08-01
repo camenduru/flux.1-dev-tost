@@ -29,6 +29,17 @@ with torch.inference_mode():
     unet = UNETLoader.load_unet("flux1-dev.sft", "default")[0]
     vae = VAELoader.load_vae("ae.sft")[0]
 
+def closestNumber(n, m):
+    q = int(n / m)
+    n1 = m * q
+    if (n * m) > 0:
+        n2 = m * (q + 1)
+    else:
+        n2 = m * (q - 1)
+    if abs(n - n1) < abs(n - n2):
+        return n1
+    return n2
+
 @torch.inference_mode()
 def generate(input):
     values = input["input"]
@@ -51,7 +62,7 @@ def generate(input):
     guider = BasicGuider.get_guider(unet, cond)[0]
     sampler = KSamplerSelect.get_sampler(sampler_name)[0]
     sigmas = BasicScheduler.get_sigmas(unet, scheduler, steps, 1.0)[0]
-    latent_image = EmptyLatentImage.generate(width, height)[0]
+    latent_image = EmptyLatentImage.generate(closestNumber(width, 16), closestNumber(height, 16))[0]
     sample, sample_denoised = SamplerCustomAdvanced.sample(noise, guider, sampler, sigmas, latent_image)
     model_management.soft_empty_cache()
     decoded = VAEDecode.decode(vae, sample)[0].detach()
