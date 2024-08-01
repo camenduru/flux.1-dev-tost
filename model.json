@@ -1,0 +1,9 @@
+{
+    "positive_prompt": "Lush Forest, giant moon in the background, starship in the foreground, deatailed, ultra hd, realistic, vivid colors, highly detailed, UHD drawing, pen and ink, perfect composition, beautiful detailed intricate insanely detailed octane render trending on artstation, 8k artistic photography, photorealistic concept art, soft natural volumetric cinematic perfect light, ultra hd, realistic, vivid colors, highly detailed, UHD drawing, pen and ink, perfect composition, beautiful detailed intricate insanely detailed octane render trending on artstation, 8k artistic photography, photorealistic concept art, soft natural volumetric cinematic perfect light",
+    "seed": 0,
+    "steps": 20,
+    "sampler_name": "euler",
+    "scheduler": "simple",
+    "width": 1024,
+    "height": 1024
+}

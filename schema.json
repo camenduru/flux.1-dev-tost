@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+  "type": "object",
+  "properties": {
+    "readme": {
+      "type": "string",
+      "title": "Flux v1 Dev",
+      "author": "Black Forest Labs",
+      "page": "https://blackforestlabs.ai/",
+      "code": "https://github.com/black-forest-labs/flux",
+      "tags": [
+        "Text to Image"
+      ],
+      "widget": "readme"
+    },
+    "positive_prompt": {
+      "type": "string",
+      "description": "Prompt",
+      "widget": "textarea"
+    },
+    "seed": {
+      "type": "integer",
+      "description": "Seed (if 0 random)"
+    },
+    "steps": {
+      "type": "integer",
+      "description": "Steps"
+    },
+    "sampler_name": {
+      "type": "string",
+      "widget": "select",
+      "description": "Sampler Name",
+      "oneOf": [
+        {
+          "description": "euler",
+          "enum": [
+            "euler"
+          ]
+        },
+        {
+          "description": "euler_ancestral",
+          "enum": [
+            "euler_ancestral"
+          ]
+        },
+        {
+          "description": "heun",
+          "enum": [
+            "heun"
+          ]
+        },
+        {
+          "description": "heunpp2",
+          "enum": [
+            "heunpp2"
+          ]
+        },
+        {
+          "description": "dpm_2",
+          "enum": [
+            "dpm_2"
+          ]
+        },
+        {
+          "description": "dpm_2_ancestral",
+          "enum": [
+            "dpm_2_ancestral"
+          ]
+        },
+        {
+          "description": "lms",
+          "enum": [
+            "lms"
+          ]
+        },
+        {
+          "description": "dpm_fast",
+          "enum": [
+            "dpm_fast"
+          ]
+        },
+        {
+          "description": "dpm_adaptive",
+          "enum": [
+            "dpm_adaptive"
+          ]
+        },
+        {
+          "description": "dpmpp_2s_ancestral",
+          "enum": [
+            "dpmpp_2s_ancestral"
+          ]
+        },
+        {
+          "description": "dpmpp_sde",
+          "enum": [
+            "dpmpp_sde"
+          ]
+        },
+        {
+          "description": "dpmpp_sde_gpu",
+          "enum": [
+            "dpmpp_sde_gpu"
+          ]
+        },
+        {
+          "description": "dpmpp_2m",
+          "enum": [
+            "dpmpp_2m"
+          ]
+        },
+        {
+          "description": "dpmpp_2m_sde",
+          "enum": [
+            "dpmpp_2m_sde"
+          ]
+        },
+        {
+          "description": "dpmpp_2m_sde_gpu",
+          "enum": [
+            "dpmpp_2m_sde_gpu"
+          ]
+        },
+        {
+          "description": "dpmpp_3m_sde",
+          "enum": [
+            "dpmpp_3m_sde"
+          ]
+        },
+        {
+          "description": "dpmpp_3m_sde_gpu",
+          "enum": [
+            "dpmpp_3m_sde_gpu"
+          ]
+        },
+        {
+          "description": "ddpm",
+          "enum": [
+            "ddpm"
+          ]
+        },
+        {
+          "description": "lcm",
+          "enum": [
+            "lcm"
+          ]
+        },
+        {
+          "description": "ddim",
+          "enum": [
+            "ddim"
+          ]
+        },
+        {
+          "description": "uni_pc",
+          "enum": [
+            "uni_pc"
+          ]
+        },
+        {
+          "description": "uni_pc_bh2",
+          "enum": [
+            "uni_pc_bh2"
+          ]
+        }
+      ],
+      "default": "dpmpp_2m"
+    },
+    "scheduler": {
+      "type": "string",
+      "widget": "select",
+      "description": "Scheduler",
+      "oneOf": [
+        {
+          "description": "normal",
+          "enum": [
+            "normal"
+          ]
+        },
+        {
+          "description": "karras",
+          "enum": [
+            "karras"
+          ]
+        },
+        {
+          "description": "exponential",
+          "enum": [
+            "exponential"
+          ]
+        },
+        {
+          "description": "heunpp2",
+          "enum": [
+            "heunpp2"
+          ]
+        },
+        {
+          "description": "sgm_uniform",
+          "enum": [
+            "sgm_uniform"
+          ]
+        },
+        {
+          "description": "simple",
+          "enum": [
+            "simple"
+          ]
+        },
+        {
+          "description": "ddim_uniform",
+          "enum": [
+            "ddim_uniform"
+          ]
+        }
+      ],
+      "default": "karras"
+    },
+    "width": {
+      "type": "integer",
+      "description": "Width"
+    },
+    "height": {
+      "type": "integer",
+      "description": "Height"
+    }
+  },
+  "buttons": [
+    {
+      "id": "enter",
+      "label": "🥪 Enter"
+    }
+  ]
+}
