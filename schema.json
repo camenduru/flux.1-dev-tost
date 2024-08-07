@@ -98,7 +98,7 @@
           ]
         }
       ],
-      "default": "dpmpp_2m"
+      "default": "euler"
     },
     "scheduler": {
       "type": "string",
@@ -130,7 +130,7 @@
           ]
         }
       ],
-      "default": "karras"
+      "default": "simple"
     },
     "width": {
       "type": "integer",
