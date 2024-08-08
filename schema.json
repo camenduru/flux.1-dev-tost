@@ -26,6 +26,24 @@
       "type": "integer",
       "description": "Steps"
     },
+    "guidance": {
+      "type": "number",
+      "description": "Guidance"
+    },
+    "lora_strength_model": {
+      "type": "number",
+      "widget": "range",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Lora Strength Model"
+    },
+    "lora_strength_clip": {
+      "type": "number",
+      "widget": "range",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Lora Strength Clip"
+    },
     "sampler_name": {
       "type": "string",
       "widget": "select",

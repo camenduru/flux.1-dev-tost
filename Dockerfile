@@ -16,12 +16,10 @@ USER camenduru
 RUN pip install -q opencv-python imageio imageio-ffmpeg ffmpeg-python av runpod \
     xformers==0.0.25 torchsde==0.2.6 einops==0.8.0 diffusers==0.28.0 transformers==4.41.2 accelerate==0.30.1
 
-RUN git clone -b flux https://github.com/camenduru/ComfyUI /content/ComfyUI
+RUN git clone -b xlabs_flux_controlnet https://github.com/camenduru/ComfyUI /content/ComfyUI
 
-RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev.sft -d /content/ComfyUI/models/unet -o flux1-dev.sft && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/ae.sft -d /content/ComfyUI/models/vae -o ae.sft && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/clip_l.safetensors -d /content/ComfyUI/models/clip -o clip_l.safetensors && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/t5xxl_fp16.safetensors -d /content/ComfyUI/models/clip -o t5xxl_fp16.safetensors
+RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev-fp8-all-in-one.safetensors -d /content/ComfyUI/models/checkpoints -o flux1-dev-fp8-all-in-one.safetensors && \
+    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux_realism_lora.safetensors -d /content/ComfyUI/models/loras -o flux_realism_lora.safetensors
 
 COPY ./worker_runpod.py /content/ComfyUI/worker_runpod.py
 WORKDIR /content/ComfyUI
