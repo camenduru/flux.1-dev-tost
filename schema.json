@@ -4,7 +4,7 @@
   "properties": {
     "readme": {
       "type": "string",
-      "title": "Flux v1 Dev",
+      "title": "Flux.1 Dev + XLabsAI Realism Lora",
       "author": "Black Forest Labs: Andreas Blattmann, Andrew Holmes, Axel Sauer, Dominik Lorenz, Dustin Podell, Frederic Boesel, Harry Saini, Jonas Müller, Kyle Lacey, Patrick Esser, Robin Rombach, Sumith Kulal, Tim Dockhorn, Yam Levi, Zion English",
       "page": "https://blackforestlabs.ai/",
       "code": "https://github.com/black-forest-labs/flux",
