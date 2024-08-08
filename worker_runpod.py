@@ -60,14 +60,14 @@ def generate(input):
     print(seed)
 
     global unet, clip
-    unet, clip = LoraLoader.load_lora(unet, clip, "flux_realism_lora.safetensors", lora_strength_model, lora_strength_clip)
-    cond, pooled = clip.encode_from_tokens(clip.tokenize(positive_prompt), return_pooled=True)
+    unet_lora, clip_lora = LoraLoader.load_lora(unet, clip, "flux_realism_lora.safetensors", lora_strength_model, lora_strength_clip)
+    cond, pooled = clip_lora.encode_from_tokens(clip_lora.tokenize(positive_prompt), return_pooled=True)
     cond = [[cond, {"pooled_output": pooled}]]
     cond = FluxGuidance.append(cond, guidance)[0]
     noise = RandomNoise.get_noise(seed)[0]
-    guider = BasicGuider.get_guider(unet, cond)[0]
+    guider = BasicGuider.get_guider(unet_lora, cond)[0]
     sampler = KSamplerSelect.get_sampler(sampler_name)[0]
-    sigmas = BasicScheduler.get_sigmas(unet, scheduler, steps, 1.0)[0]
+    sigmas = BasicScheduler.get_sigmas(unet_lora, scheduler, steps, 1.0)[0]
     latent_image = EmptyLatentImage.generate(closestNumber(width, 16), closestNumber(height, 16))[0]
     sample, sample_denoised = SamplerCustomAdvanced.sample(noise, guider, sampler, sigmas, latent_image)
     decoded = VAEDecode.decode(vae, sample)[0].detach()
