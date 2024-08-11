@@ -24,7 +24,29 @@
     },
     "steps": {
       "type": "integer",
-      "description": "Steps"
+      "widget": "select",
+      "description": "Steps",
+      "oneOf": [
+        {
+          "description": "10",
+          "enum": [
+            10
+          ]
+        },
+        {
+          "description": "20",
+          "enum": [
+            20
+          ]
+        },
+        {
+          "description": "30",
+          "enum": [
+            30
+          ]
+        }
+      ],
+      "default": 20
     },
     "guidance": {
       "type": "number",
@@ -52,17 +74,55 @@
     },
     "lora_strength_model": {
       "type": "number",
-      "minimum": 0.0,
-      "maximum": 1.0,
+      "widget": "select",
       "description": "Lora Strength Model",
-      "widget": "range"
+      "oneOf": [
+        {
+          "description": "0",
+          "enum": [
+            0
+          ]
+        },
+        {
+          "description": "0.5",
+          "enum": [
+            0.5
+          ]
+        },
+        {
+          "description": "1",
+          "enum": [
+            1
+          ]
+        }
+      ],
+      "default": 1
     },
     "lora_strength_clip": {
       "type": "number",
-      "minimum": 0.0,
-      "maximum": 1.0,
+      "widget": "select",
       "description": "Lora Strength Clip",
-      "widget": "range"
+      "oneOf": [
+        {
+          "description": "0",
+          "enum": [
+            0
+          ]
+        },
+        {
+          "description": "0.5",
+          "enum": [
+            0.5
+          ]
+        },
+        {
+          "description": "1",
+          "enum": [
+            1
+          ]
+        }
+      ],
+      "default": 1
     },
     "sampler_name": {
       "type": "string",
