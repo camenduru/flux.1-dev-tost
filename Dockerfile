@@ -25,8 +25,7 @@ RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co
     aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/xlabs_flux_disney_lora_comfyui.safetensors -d /content/ComfyUI/models/loras -o xlabs_disney.safetensors && \
     aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/xlabs_flux_mjv6_lora_comfyui.safetensors -d /content/ComfyUI/models/loras -o xlabs_mjv6.safetensors && \
     aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/xlabs_flux_realism_lora_comfui.safetensors -d /content/ComfyUI/models/loras -o xlabs_realism.safetensors && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/xlabs_flux_scenery_lora_comfyui.safetensors -d /content/ComfyUI/models/loras -o xlabs_scenery.safetensors && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux_dev_frostinglane_araminta_k.safetensors -d /content/ComfyUI/models/loras -o alvdansen_frostinglane_araminta_k.safetensors
+    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/xlabs_flux_scenery_lora_comfyui.safetensors -d /content/ComfyUI/models/loras -o xlabs_scenery.safetensors
 
 COPY ./worker_runpod.py /content/ComfyUI/worker_runpod.py
 WORKDIR /content/ComfyUI
