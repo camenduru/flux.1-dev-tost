@@ -58,19 +58,55 @@
       "description": "Lora File",
       "oneOf": [
         {
-          "description": "XLabs AI Realism",
+          "description": "Advokat Aesthetic",
           "enum": [
-            "flux_realism_lora.safetensors"
+            "advokat_aesthetic10k.safetensors"
           ]
         },
         {
-          "description": "Advokat Aesthetic",
+          "description": "XLabs AI Anime",
           "enum": [
-            "aesthetic10k.safetensors"
+            "xlabs_anime.safetensors"
+          ]
+        },
+        {
+          "description": "XLabs AI Art",
+          "enum": [
+            "xlabs_art.safetensors"
+          ]
+        },
+        {
+          "description": "XLabs AI Disney",
+          "enum": [
+            "xlabs_disney.safetensors"
+          ]
+        },
+        {
+          "description": "XLabs AI MJv6",
+          "enum": [
+            "xlabs_mjv6.safetensors"
+          ]
+        },
+        {
+          "description": "XLabs AI Realism",
+          "enum": [
+            "xlabs_realism.safetensors"
+          ]
+        },
+        {
+          "description": "XLabs AI Scenery",
+          "enum": [
+            "xlabs_scenery.safetensors"
+          ]
+        },
+        {
+          "description": "Fok3827 Asian Female",
+          "enum": [
+            "fok3827_asian_female_v0.1.safetensors"
           ]
         }
       ],
-      "default": "flux_realism_lora.safetensors"
+      "default": "xlabs_realism.safetensors"
     },
     "lora_strength_model": {
       "type": "number",

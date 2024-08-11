@@ -3,7 +3,7 @@
     "seed": 0,
     "steps": 20,
     "guidance": 3.5,
-    "lora_file": "flux_realism_lora.safetensors",
+    "lora_file": "xlabs_realism.safetensors",
     "lora_strength_model": 1.0,
     "lora_strength_clip": 1.0,
     "sampler_name": "euler",
