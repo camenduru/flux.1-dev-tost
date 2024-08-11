@@ -98,6 +98,12 @@
           "enum": [
             "xlabs_scenery.safetensors"
           ]
+        },
+        {
+          "description": "Araminta_k Frostinglane",
+          "enum": [
+            "alvdansen_frostinglane_araminta_k.safetensors"
+          ]
         }
       ],
       "default": "xlabs_realism.safetensors"
