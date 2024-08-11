@@ -64,45 +64,39 @@
           ]
         },
         {
-          "description": "XLabs AI Anime",
+          "description": "XLabs Anime",
           "enum": [
             "xlabs_anime.safetensors"
           ]
         },
         {
-          "description": "XLabs AI Art",
+          "description": "XLabs Art",
           "enum": [
             "xlabs_art.safetensors"
           ]
         },
         {
-          "description": "XLabs AI Disney",
+          "description": "XLabs Disney",
           "enum": [
             "xlabs_disney.safetensors"
           ]
         },
         {
-          "description": "XLabs AI MJv6",
+          "description": "XLabs MJv6",
           "enum": [
             "xlabs_mjv6.safetensors"
           ]
         },
         {
-          "description": "XLabs AI Realism",
+          "description": "XLabs Realism",
           "enum": [
             "xlabs_realism.safetensors"
           ]
         },
         {
-          "description": "XLabs AI Scenery",
+          "description": "XLabs Scenery",
           "enum": [
             "xlabs_scenery.safetensors"
-          ]
-        },
-        {
-          "description": "Fok3827 Asian Female",
-          "enum": [
-            "fok3827_asian_female_v0.1.safetensors"
           ]
         }
       ],
