@@ -30,6 +30,26 @@
       "type": "number",
       "description": "Guidance"
     },
+    "lora_file": {
+      "type": "string",
+      "widget": "select",
+      "description": "Lora File",
+      "oneOf": [
+        {
+          "description": "flux_realism_lora.safetensors",
+          "enum": [
+            "flux_realism_lora.safetensors"
+          ]
+        },
+        {
+          "description": "aesthetic10k.safetensors",
+          "enum": [
+            "aesthetic10k.safetensors"
+          ]
+        }
+      ],
+      "default": "flux_realism_lora.safetensors"
+    },
     "lora_strength_model": {
       "type": "number",
       "minimum": 0.0,

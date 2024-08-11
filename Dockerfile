@@ -19,7 +19,8 @@ RUN pip install -q opencv-python imageio imageio-ffmpeg ffmpeg-python av runpod 
 RUN git clone -b xlabs_flux_controlnet https://github.com/camenduru/ComfyUI /content/ComfyUI
 
 RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev-fp8-all-in-one.safetensors -d /content/ComfyUI/models/checkpoints -o flux1-dev-fp8-all-in-one.safetensors && \
-    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux_realism_lora.safetensors -d /content/ComfyUI/models/loras -o flux_realism_lora.safetensors
+    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux_realism_lora.safetensors -d /content/ComfyUI/models/loras -o flux_realism_lora.safetensors && \
+    aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/aesthetic10k.safetensors -d /content/ComfyUI/models/loras -o aesthetic10k.safetensors
 
 COPY ./worker_runpod.py /content/ComfyUI/worker_runpod.py
 WORKDIR /content/ComfyUI

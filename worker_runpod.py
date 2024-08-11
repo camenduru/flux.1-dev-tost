@@ -54,13 +54,14 @@ def generate(input):
     lora_strength_clip = values['lora_strength_clip']
     sampler_name = values['sampler_name']
     scheduler = values['scheduler']
+    lora_file = values['lora_file']
 
     if seed == 0:
         seed = random.randint(0, 18446744073709551615)
     print(seed)
 
     global unet, clip
-    unet_lora, clip_lora = LoraLoader.load_lora(unet, clip, "flux_realism_lora.safetensors", lora_strength_model, lora_strength_clip)
+    unet_lora, clip_lora = LoraLoader.load_lora(unet, clip, lora_file, lora_strength_model, lora_strength_clip)
     cond, pooled = clip_lora.encode_from_tokens(clip_lora.tokenize(positive_prompt), return_pooled=True)
     cond = [[cond, {"pooled_output": pooled}]]
     cond = FluxGuidance.append(cond, guidance)[0]
