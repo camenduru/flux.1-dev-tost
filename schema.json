@@ -54,13 +54,15 @@
       "type": "number",
       "minimum": 0.0,
       "maximum": 1.0,
-      "description": "Lora Strength Model"
+      "description": "Lora Strength Model",
+      "widget": "range"
     },
     "lora_strength_clip": {
       "type": "number",
       "minimum": 0.0,
       "maximum": 1.0,
-      "description": "Lora Strength Clip"
+      "description": "Lora Strength Clip",
+      "widget": "range"
     },
     "sampler_name": {
       "type": "string",
