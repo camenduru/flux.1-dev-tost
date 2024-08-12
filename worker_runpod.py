@@ -14,7 +14,11 @@ discord_token = os.getenv('com_camenduru_discord_token')
 web_uri = os.getenv('com_camenduru_web_uri')
 web_token = os.getenv('com_camenduru_web_token')
 
-CheckpointLoaderSimple = NODE_CLASS_MAPPINGS["CheckpointLoaderSimple"]()
+# CheckpointLoaderSimple = NODE_CLASS_MAPPINGS["CheckpointLoaderSimple"]()
+DualCLIPLoader = NODE_CLASS_MAPPINGS["DualCLIPLoader"]()
+UNETLoader = NODE_CLASS_MAPPINGS["UNETLoader"]()
+VAELoader = NODE_CLASS_MAPPINGS["VAELoader"]()
+
 LoraLoader = NODE_CLASS_MAPPINGS["LoraLoader"]()
 FluxGuidance = nodes_flux.NODE_CLASS_MAPPINGS["FluxGuidance"]()
 RandomNoise = nodes_custom_sampler.NODE_CLASS_MAPPINGS["RandomNoise"]()
@@ -27,7 +31,10 @@ VAEDecode = NODE_CLASS_MAPPINGS["VAEDecode"]()
 EmptyLatentImage = NODE_CLASS_MAPPINGS["EmptyLatentImage"]()
 
 with torch.inference_mode():
-    unet, clip, vae = CheckpointLoaderSimple.load_checkpoint("flux1-dev-fp8-all-in-one.safetensors")
+    # unet, clip, vae = CheckpointLoaderSimple.load_checkpoint("flux1-dev-fp8-all-in-one.safetensors")
+    clip = DualCLIPLoader.load_clip("t5xxl_fp16.safetensors", "clip_l.safetensors", "flux")[0]
+    unet = UNETLoader.load_unet("flux1-dev.sft", "default")[0]
+    vae = VAELoader.load_vae("ae.sft")[0]
 
 def closestNumber(n, m):
     q = int(n / m)
