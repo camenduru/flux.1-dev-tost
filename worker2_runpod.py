@@ -83,23 +83,23 @@ def generate(input):
     try:
         notify_uri = values['notify_uri']
         del values['notify_uri']
-        if(notify_uri != "notify_uri"):
+        if(notify_uri == "notify_uri"):
             notify_uri = os.getenv('com_camenduru_notify_uri')
         notify_token = values['notify_token']
         del values['notify_token']
-        if(notify_token != "notify_token"):
+        if(notify_token == "notify_token"):
             notify_token = os.getenv('com_camenduru_notify_token')
         discord_id = values['discord_id']
         del values['discord_id']
-        if(discord_id != "discord_id"):
+        if(discord_id == "discord_id"):
             discord_id = os.getenv('com_camenduru_discord_id')
         discord_channel = values['discord_channel']
         del values['discord_channel']
-        if(discord_channel != "discord_channel"):
+        if(discord_channel == "discord_channel"):
             discord_channel = os.getenv('com_camenduru_discord_channel')
         discord_token = values['discord_token']
         del values['discord_token']
-        if(discord_token != "discord_token"):
+        if(discord_token == "discord_token"):
             discord_token = os.getenv('com_camenduru_discord_token')
         job_id = values['job_id']
         del values['job_id']
