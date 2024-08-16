@@ -79,7 +79,6 @@ def generate(input):
     Image.fromarray(np.array(decoded*255, dtype=np.uint8)[0]).save("/content/flux.png")
 
     result = "/content/flux.png"
-    response = None
     try:
         notify_uri = values['notify_uri']
         del values['notify_uri']
@@ -114,27 +113,19 @@ def generate(input):
             files=files
         )
         response.raise_for_status()
+        result_url = response.json()['attachments'][0]['url']
+        notify_payload = {"jobId": job_id, "result": result_url, "status": "DONE"}
+        requests.post(notify_uri, data=json.dumps(notify_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
+        return {"jobId": job_id, "result": result_url, "status": "DONE"}
     except Exception as e:
-        return {"jobId": job_id, "result": f"FAILED: {e}", "status": "FAILED"}
+        error_payload = {"jobId": job_id, "status": "FAILED"}
+        try:
+            requests.post(notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
+        except:
+            pass
+        return {"jobId": job_id, "result": f"FAILED: {str(e)}", "status": "FAILED"}
     finally:
         if os.path.exists(result):
             os.remove(result)
-
-    if response and response.status_code == 200:
-        try:
-            payload = {"jobId": job_id, "result": response.json()['attachments'][0]['url'], "status": "DONE"}
-            requests.post(f"{notify_uri}", data=json.dumps(payload), headers={'Content-Type': 'application/json', "Authorization": f"{notify_token}"})
-        except Exception as e:
-            return {"jobId": job_id, "result": f"FAILED: {e}", "status": "FAILED"}
-        finally:
-            return {"jobId": job_id, "result": response.json()['attachments'][0]['url'], "status": "DONE"}
-    else:
-        try:
-            payload = {"jobId": job_id, "status": "FAILED"}
-            requests.post(f"{notify_uri}", data=json.dumps(payload), headers={'Content-Type': 'application/json', "Authorization": f"{notify_token}"})
-        except Exception as e:
-            return {"jobId": job_id, "result": f"FAILED: {e}", "status": "FAILED"}
-        finally:
-            return {"jobId": job_id, "result": f"FAILED", "status": "FAILED"}
 
 runpod.serverless.start({"handler": generate})
