@@ -82,11 +82,10 @@ def generate(input):
     try:
         notify_uri = values['notify_uri']
         del values['notify_uri']
-        if(notify_uri == "notify_uri"):
-            notify_uri = os.getenv('com_camenduru_notify_uri')
         notify_token = values['notify_token']
         del values['notify_token']
-        if(notify_token == "notify_token"):
+        if(notify_uri == "notify_uri"):
+            notify_uri = os.getenv('com_camenduru_notify_uri')
             notify_token = os.getenv('com_camenduru_notify_token')
         discord_id = values['discord_id']
         del values['discord_id']
