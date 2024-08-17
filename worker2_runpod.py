@@ -122,11 +122,11 @@ def generate(input):
     except Exception as e:
         error_payload = {"jobId": job_id, "status": "FAILED"}
         try:
-        if(notify_uri == "notify_uri"):
-            requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
-        else:
-            requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
-            requests.post(notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
+            if(notify_uri == "notify_uri"):
+                requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
+            else:
+                requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
+                requests.post(notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
         except:
             pass
         return {"jobId": job_id, "result": f"FAILED: {str(e)}", "status": "FAILED"}
