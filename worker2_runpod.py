@@ -84,9 +84,6 @@ def generate(input):
         del values['notify_uri']
         notify_token = values['notify_token']
         del values['notify_token']
-        if(notify_uri == "notify_uri"):
-            notify_uri = os.getenv('com_camenduru_notify_uri')
-            notify_token = os.getenv('com_camenduru_notify_token')
         discord_id = values['discord_id']
         del values['discord_id']
         if(discord_id == "discord_id"):
@@ -114,11 +111,21 @@ def generate(input):
         response.raise_for_status()
         result_url = response.json()['attachments'][0]['url']
         notify_payload = {"jobId": job_id, "result": result_url, "status": "DONE"}
-        requests.post(notify_uri, data=json.dumps(notify_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
+        web_notify_uri = os.getenv('com_camenduru_web_notify_uri')
+        web_notify_token = os.getenv('com_camenduru_web_notify_token')
+        if(notify_uri == "notify_uri"):
+            requests.post(web_notify_uri, data=json.dumps(notify_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
+        else:
+            requests.post(web_notify_uri, data=json.dumps(notify_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
+            requests.post(notify_uri, data=json.dumps(notify_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
         return {"jobId": job_id, "result": result_url, "status": "DONE"}
     except Exception as e:
         error_payload = {"jobId": job_id, "status": "FAILED"}
         try:
+        if(notify_uri == "notify_uri"):
+            requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
+        else:
+            requests.post(web_notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": web_notify_token})
             requests.post(notify_uri, data=json.dumps(error_payload), headers={'Content-Type': 'application/json', "Authorization": notify_token})
         except:
             pass
