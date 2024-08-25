@@ -74,9 +74,10 @@ def generate(input):
     sample, sample_denoised = SamplerCustomAdvanced.sample(noise, guider, sampler, sigmas, latent_image)
     decoded = VAEDecode.decode(vae, sample)[0].detach()
     image = Image.fromarray(np.array(decoded*255, dtype=np.uint8)[0])
-    image.save("/content/flux0.png")
+    file_path = os.getenv('com_camenduru_result_file_path')
+    image.save(file_path)
     
-    result = "/content/flux0.png"
+    result = file_path
     try:
         notify_uri = values['notify_uri']
         del values['notify_uri']
