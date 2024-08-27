@@ -135,7 +135,7 @@ def generate(input):
         return image
 
 import gradio as gr
-with gr.Blocks(title=f"sdxl-turbo", css=".gradio-container {max-width: 544px !important}", analytics_enabled=False) as demo:
+with gr.Blocks(css=".gradio-container {max-width: 544px !important}", analytics_enabled=False) as demo:
     with gr.Row():
       with gr.Column():
           textbox = gr.Textbox(show_label=False, value="""

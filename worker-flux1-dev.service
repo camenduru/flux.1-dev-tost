@@ -1,0 +1,19 @@
+[Unit]
+Description=Worker Flux 1 DEV
+After=syslog.target network.target
+[Service]
+User=root
+Environment="PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/cuda/bin"
+Environment="GRADIO_ANALYTICS_ENABLED=False"
+Environment="com_camenduru_discord_id=discord_id"
+Environment="com_camenduru_discord_channel=discord_channel"
+Environment="com_camenduru_discord_token=discord_token"
+Environment="com_camenduru_web_notify_uri=notify_uri"
+Environment="com_camenduru_web_notify_token=notify_token"
+Environment="com_camenduru_result_file_path=/content/flux.png"
+Environment="server_port=8003"
+WorkingDirectory=/content/com.camenduru/flux.1-dev-tost
+ExecStart=/bin/bash -c '. /content/flux-venv/bin/activate && CUDA_VISIBLE_DEVICES=0 python worker.py'
+Restart=always
+[Install]
+WantedBy=multi-user.target
