@@ -2378,8 +2378,8 @@
       "type": "string",
       "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3157976c-73bf-4458-a981-ee1f2bea147c/width=450",
       "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/300f1f19-6a06-4dbd-8a9b-a04e122d28a1/width=450",
-      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3157976c-73bf-4458-a981-ee1f2bea147c/width=450",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/300f1f19-6a06-4dbd-8a9b-a04e122d28a1/width=450",
+      "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
+      "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/679615/holographic-test?modelVersionId=760721",
       "widget": "example",
       "visibleIf": {
