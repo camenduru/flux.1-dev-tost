@@ -3132,10 +3132,10 @@
     },
   	"ukiyo-e-for-flux": {
       "type": "string",
-      "image1": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image2": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
+      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e3a372ed-6815-497c-83c6-010cc381cffd/width=450",
+      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae36c9d2-311b-4c2e-8581-0e3b52e1a305/width=450",
+      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b65cf99c-c5c6-4182-a620-1df11de58cb6/width=450",
+      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52538875-eee1-4931-bf3e-9c6fedffd7f5/width=450",
       "model": "https://civitai.com/models/694247/ukiyo-e-for-flux?modelVersionId=776942",
       "widget": "example",
       "visibleIf": {
