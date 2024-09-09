@@ -2014,8 +2014,8 @@
       "type": "string",
       "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5c259a23-9213-4c74-bd88-5b8820817e37/width=450",
       "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c694b6fb-8fa2-4c80-827e-42e597fcb93c/width=450",
-      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5c259a23-9213-4c74-bd88-5b8820817e37/width=450",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c694b6fb-8fa2-4c80-827e-42e597fcb93c/width=450",
+      "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
+      "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/706761/crochet-food?modelVersionId=790545",
       "widget": "example",
       "visibleIf": {
@@ -2141,7 +2141,7 @@
       "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/201a1bbc-efa6-4a81-a6d3-6c071b5bf02a/width=450",
       "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d0e1b215-ec15-4702-939a-034969fe63e7/width=450",
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8323b78e-87b5-4d53-b630-a68e7ed94d98/width=450",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8323b78e-87b5-4d53-b630-a68e7ed94d98/width=450",
+      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ecadbe73-ba60-470d-b571-447001803f76/width=450",
       "model": "https://civitai.com/models/687590/evilanders-art-ii?modelVersionId=769566",
       "widget": "example",
       "visibleIf": {
