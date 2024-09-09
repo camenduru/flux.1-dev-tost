@@ -3961,7 +3961,7 @@
       "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e80b9fe-252b-4ae6-ae92-f0ee5da8902a/width=450",
       "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2412f17a-9701-4e09-b713-2206360bd0eb/width=450",
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2cf9ccde-28cc-41aa-beda-891df17a2f45/width=450",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e80b9fe-252b-4ae6-ae92-f0ee5da8902a/width=450",
+      "image4": "https://fakeimg.pl/450x658/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/683222/spirited-away-ghibli-style-for-flux?modelVersionId=764708",
       "widget": "example",
       "visibleIf": {
@@ -4000,10 +4000,10 @@
     },
   	"miasma-official": {
       "type": "string",
-      "image1": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image2": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
-      "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=NSFW#.png",
+      "image1": "https://fakeimg.pl/450x450/282828/eae0d0/?text=👻#.png",
+      "image2": "https://fakeimg.pl/450x450/282828/eae0d0/?text=👻#.png",
+      "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=👻#.png",
+      "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=👻#.png",
       "model": "https://civitai.com/models/720775/miasma-official?modelVersionId=805978",
       "widget": "example",
       "visibleIf": {
