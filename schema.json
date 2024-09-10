@@ -226,63 +226,63 @@
       "description": "Lora File",
       "oneOf": [
         {
-          "description": "advokat_aesthetic10k",
+          "description": "3d-chibi-toyair-dry-clay-style-flux",
           "enum": [
-            "advokat_aesthetic10k.safetensors"
+            "3d-chibi-toyair-dry-clay-style-flux_689231_771373.safetensors"
           ]
         },
         {
-          "description": "xlabs_anime",
+          "description": "3d-e-commerce-flux-lora-or-miniature-cartoon-style",
           "enum": [
-            "xlabs_anime.safetensors"
+            "3d-e-commerce-flux-lora-or-miniature-cartoon-style_715829_800495.safetensors"
           ]
         },
         {
-          "description": "xlabs_art",
+          "description": "3dflux-style",
           "enum": [
-            "xlabs_art.safetensors"
-          ]
-        },
-        {
-          "description": "xlabs_disneyy",
-          "enum": [
-            "xlabs_disney.safetensors"
-          ]
-        },
-        {
-          "description": "xlabs_mjv6",
-          "enum": [
-            "xlabs_mjv6.safetensors"
-          ]
-        },
-        {
-          "description": "xlabs_realism",
-          "enum": [
-            "xlabs_realism.safetensors"
-          ]
-        },
-        {
-          "description": "xlabs_scenery",
-          "enum": [
-            "xlabs_scenery.safetensors"
-          ]
-        },
-        {
-          "description": "alvdansen_frostinglane",
-          "enum": [
-            "alvdansen_frostinglane_araminta_k.safetensors"
-          ]
-        },
-        {
-          "description": "flux-loras-full-package-updated",
-          "enum": [
-            "flux-loras-full-package-updated_640126_731630.safetensors"
+            "3dflux-style_689478_771650.safetensors"
           ]
         },
         {
           "description": "abstravd-style-or-flux",
           "enum": [
             "abstravd-style-or-flux_656163_734113.safetensors"
+          ]
+        },
+        {
+          "description": "advokat_aesthetic10k",
+          "enum": [
+            "advokat_aesthetic10k.safetensors"
+          ]
+        },
+        {
+          "description": "aesthetic-lora-for-flux",
+          "enum": [
+            "aesthetic-lora-for-flux_633553_740450.safetensors"
+          ]
+        },
+        {
+          "description": "akfu-environments",
+          "enum": [
+            "akfu-environments_20412_771477.safetensors"
+          ]
+        },
+        {
+          "description": "alvdansen_frostinglane_araminta_k",
+          "enum": [
+            "alvdansen_frostinglane_araminta_k.safetensors"
+          ]
+        },
+        {
+          "description": "ang-bohus-painting-style-lora",
+          "enum": [
+            "ang-bohus-painting-style-lora_36979_771294.safetensors"
+          ]
+        },
+        {
+          "description": "animation2k-flux",
+          "enum": [
+            "animation2k-flux_660971_739660.safetensors"
           ]
         },
         {
@@ -295,6 +295,24 @@
           "description": "anime-style-fuwafuwanime-flux",
           "enum": [
             "anime-style-fuwafuwanime-flux_694186_776871.safetensors"
+          ]
+        },
+        {
+          "description": "animescarflux",
+          "enum": [
+            "animescarflux_729619_815886.safetensors"
+          ]
+        },
+        {
+          "description": "anythingxl-style-for-flux",
+          "enum": [
+            "anythingxl-style-for-flux_710652_794865.safetensors"
+          ]
+        },
+        {
+          "description": "ascii-art-flux",
+          "enum": [
+            "ascii-art-flux_648623_725667.safetensors"
           ]
         },
         {
@@ -316,6 +334,12 @@
           ]
         },
         {
+          "description": "bartolomeobari-style-flux",
+          "enum": [
+            "bartolomeobari-style-flux_656899_734969.safetensors"
+          ]
+        },
+        {
           "description": "berserkmangapage",
           "enum": [
             "berserkmangapage_690107_772346.safetensors"
@@ -328,6 +352,18 @@
           ]
         },
         {
+          "description": "boreal-fd-boring-reality-flux-dev-lora",
+          "enum": [
+            "boreal-fd-boring-reality-flux-dev-lora_639937_810340.safetensors"
+          ]
+        },
+        {
+          "description": "brand-marks-logo-icon-symbol",
+          "enum": [
+            "brand-marks-logo-icon-symbol_710493_794687.safetensors"
+          ]
+        },
+        {
           "description": "broken-age-style-flux",
           "enum": [
             "broken-age-style-flux_698765_781883.safetensors"
@@ -337,6 +373,12 @@
           "description": "broken-brawl-stars-characters-for-flux1-dev",
           "enum": [
             "broken-brawl-stars-characters-for-flux1-dev_655335_733174.safetensors"
+          ]
+        },
+        {
+          "description": "brutalist-monument-flux",
+          "enum": [
+            "brutalist-monument-flux_654226_731931.safetensors"
           ]
         },
         {
@@ -364,6 +406,18 @@
           ]
         },
         {
+          "description": "childparkai-loraarchitecture-morph",
+          "enum": [
+            "childparkai-loraarchitecture-morph_695271_778071.safetensors"
+          ]
+        },
+        {
+          "description": "china3dpaintingai-loraart-morph",
+          "enum": [
+            "china3dpaintingai-loraart-morph_690979_773334.safetensors"
+          ]
+        },
+        {
           "description": "chris-simpsons-artist-style",
           "enum": [
             "chris-simpsons-artist-style_693577_776194.safetensors"
@@ -376,9 +430,21 @@
           ]
         },
         {
+          "description": "cinematic-lego",
+          "enum": [
+            "cinematic-lego_677718_758624.safetensors"
+          ]
+        },
+        {
           "description": "clash-of-clans-style",
           "enum": [
             "clash-of-clans-style_682830_764263.safetensors"
+          ]
+        },
+        {
+          "description": "classic-manga",
+          "enum": [
+            "classic-manga_699491_782690.safetensors"
           ]
         },
         {
@@ -391,6 +457,18 @@
           "description": "claymation-flux1-d",
           "enum": [
             "claymation-flux1-d_695774_778613.safetensors"
+          ]
+        },
+        {
+          "description": "comic-illustrationpastel-color-illustrations-people-and-scenes-flux",
+          "enum": [
+            "comic-illustrationpastel-color-illustrations-people-and-scenes-flux_684274_765877.safetensors"
+          ]
+        },
+        {
+          "description": "commodore-64-style-pixel-art",
+          "enum": [
+            "commodore-64-style-pixel-art_304097_804983.safetensors"
           ]
         },
         {
@@ -424,9 +502,57 @@
           ]
         },
         {
+          "description": "dalcefoflux1dev-emoart",
+          "enum": [
+            "dalcefoflux1dev-emoart_688390_770459.safetensors"
+          ]
+        },
+        {
+          "description": "darius-kawasaki-painting-style-flux1-d-lora",
+          "enum": [
+            "darius-kawasaki-painting-style-flux1-d-lora_655712_748469.safetensors"
+          ]
+        },
+        {
+          "description": "dark-sector-style",
+          "enum": [
+            "dark-sector-style_673203_753606.safetensors"
+          ]
+        },
+        {
+          "description": "daubrez-flux",
+          "enum": [
+            "daubrez-flux_696050_778925.safetensors"
+          ]
+        },
+        {
           "description": "deathburger",
           "enum": [
             "deathburger_707865_791767.safetensors"
+          ]
+        },
+        {
+          "description": "definitive-disney-studios-style-pony-and-flux-by-yeiyeiart",
+          "enum": [
+            "definitive-disney-studios-style-pony-and-flux-by-yeiyeiart_404277_738866.safetensors"
+          ]
+        },
+        {
+          "description": "deus-ex-style-flux",
+          "enum": [
+            "deus-ex-style-flux_709157_793219.safetensors"
+          ]
+        },
+        {
+          "description": "disgaea-7-style-f1d",
+          "enum": [
+            "disgaea-7-style-f1d_729953_816265.safetensors"
+          ]
+        },
+        {
+          "description": "disney-animated-style-lora-flux1-dev",
+          "enum": [
+            "disney-animated-style-lora-flux1-dev_706762_790552.safetensors"
           ]
         },
         {
@@ -448,15 +574,75 @@
           ]
         },
         {
+          "description": "dreamy-floating-flux-lora",
+          "enum": [
+            "dreamy-floating-flux-lora_663582_742633.safetensors"
+          ]
+        },
+        {
           "description": "dushiyineng",
           "enum": [
             "dushiyineng_673599_754040.safetensors"
           ]
         },
         {
+          "description": "e-commerce-high-quality-flux1d-lora",
+          "enum": [
+            "e-commerce-high-quality-flux1d-lora_733080_819772.safetensors"
+          ]
+        },
+        {
+          "description": "egg-ricetkgtamago-kake-gohan",
+          "enum": [
+            "egg-ricetkgtamago-kake-gohan_723677_810642.safetensors"
+          ]
+        },
+        {
+          "description": "eldritch-parchment-art-or-for-flux1-dev",
+          "enum": [
+            "eldritch-parchment-art-or-for-flux1-dev_668651_748533.safetensors"
+          ]
+        },
+        {
           "description": "embroidered-quilting-flux-lora",
           "enum": [
             "embroidered-quilting-flux-lora_700996_787673.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-abstract-background-01",
+          "enum": [
+            "envy-flux-abstract-background-01_678830_759851.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-character-concept-01",
+          "enum": [
+            "envy-flux-character-concept-01_692162_774619.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-classic-02",
+          "enum": [
+            "envy-flux-classic-02_663056_743101.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-kawaii-sticker-01",
+          "enum": [
+            "envy-flux-kawaii-sticker-01_681851_763167.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-liminal-01",
+          "enum": [
+            "envy-flux-liminal-01_695983_778837.safetensors"
+          ]
+        },
+        {
+          "description": "envy-flux-vintage-speedpaint-01",
+          "enum": [
+            "envy-flux-vintage-speedpaint-01_657552_735712.safetensors"
           ]
         },
         {
@@ -472,9 +658,69 @@
           ]
         },
         {
+          "description": "flat-cartoon-style",
+          "enum": [
+            "flat-cartoon-style_644541_740091.safetensors"
+          ]
+        },
+        {
           "description": "flat-illustration-character-illustrations-flat-and-minimal-style-flux",
           "enum": [
             "flat-illustration-character-illustrations-flat-and-minimal-style-flux_666619_746037.safetensors"
+          ]
+        },
+        {
+          "description": "flux-bing-anime-lucid-aiai-b1ng-lucid-lora",
+          "enum": [
+            "flux-bing-anime-lucid-aiai-b1ng-lucid-lora_682050_795006.safetensors"
+          ]
+        },
+        {
+          "description": "flux-cartoonillustration",
+          "enum": [
+            "flux-cartoonillustration_656307_734299.safetensors"
+          ]
+        },
+        {
+          "description": "flux-dream",
+          "enum": [
+            "flux-dream_656339_734332.safetensors"
+          ]
+        },
+        {
+          "description": "flux-eva-aiai-3v4-lora",
+          "enum": [
+            "flux-eva-aiai-3v4-lora_667585_809548.safetensors"
+          ]
+        },
+        {
+          "description": "flux-flat-anime-lora",
+          "enum": [
+            "flux-flat-anime-lora_697676_780723.safetensors"
+          ]
+        },
+        {
+          "description": "flux-gen-5-trainer-sprites",
+          "enum": [
+            "flux-gen-5-trainer-sprites_704779_788326.safetensors"
+          ]
+        },
+        {
+          "description": "flux-greenification",
+          "enum": [
+            "flux-greenification_659373_737805.safetensors"
+          ]
+        },
+        {
+          "description": "flux-icon-maker-psiclones-artforge-masterkit",
+          "enum": [
+            "flux-icon-maker-psiclones-artforge-masterkit_722531_807889.safetensors"
+          ]
+        },
+        {
+          "description": "flux-links-awakening-or-f1",
+          "enum": [
+            "flux-links-awakening-or-f1_729259_815496.safetensors"
           ]
         },
         {
@@ -484,15 +730,117 @@
           ]
         },
         {
+          "description": "flux-lora-balaenoptera-style",
+          "enum": [
+            "flux-lora-balaenoptera-style_712297_796676.safetensors"
+          ]
+        },
+        {
+          "description": "flux-lora-minimalist-line-style",
+          "enum": [
+            "flux-lora-minimalist-line-style_657321_735459.safetensors"
+          ]
+        },
+        {
+          "description": "flux-loras-full-package-updated",
+          "enum": [
+            "flux-loras-full-package-updated_640126_731630.safetensors"
+          ]
+        },
+        {
+          "description": "flux-lora",
+          "enum": [
+            "flux-lora_644150_720543.safetensors"
+          ]
+        },
+        {
+          "description": "flux-outdoor-e-commerce-products",
+          "enum": [
+            "flux-outdoor-e-commerce-products_712750_797162.safetensors"
+          ]
+        },
+        {
+          "description": "flux-plastic3d",
+          "enum": [
+            "flux-plastic3d_696570_779503.safetensors"
+          ]
+        },
+        {
+          "description": "flux-pokegirls-pokemon",
+          "enum": [
+            "flux-pokegirls-pokemon_689643_771839.safetensors"
+          ]
+        },
+        {
+          "description": "flux-rem-ram-beatrice-emilia-subaru-and-puck-rezero-multi-character",
+          "enum": [
+            "flux-rem-ram-beatrice-emilia-subaru-and-puck-rezero-multi-character_679132_760199.safetensors"
+          ]
+        },
+        {
           "description": "flux-retro-disney",
           "enum": [
             "flux-retro-disney_679705_760824.safetensors"
           ]
         },
         {
+          "description": "flux-rosina-wachtmeister-artist-style",
+          "enum": [
+            "flux-rosina-wachtmeister-artist-style_703166_786587.safetensors"
+          ]
+        },
+        {
+          "description": "flux-simple-line-drawing",
+          "enum": [
+            "flux-simple-line-drawing_656387_734382.safetensors"
+          ]
+        },
+        {
+          "description": "flux-sketch",
+          "enum": [
+            "flux-sketch_702860_786285.safetensors"
+          ]
+        },
+        {
+          "description": "flux-syntheticanime",
+          "enum": [
+            "flux-syntheticanime_645425_722013.safetensors"
+          ]
+        },
+        {
           "description": "flux-vintage-abstract-film",
           "enum": [
             "flux-vintage-abstract-film_719889_804970.safetensors"
+          ]
+        },
+        {
+          "description": "flux1-d-image-fubarizer-test",
+          "enum": [
+            "flux1-d-image-fubarizer-test_693881_776530.safetensors"
+          ]
+        },
+        {
+          "description": "flux1-lora-day-of-the-tentacle-remastered",
+          "enum": [
+            "flux1-lora-day-of-the-tentacle-remastered_687204_769123.safetensors"
+          ]
+        },
+        {
+          "description": "flux1-lora-return-to-monkey-island",
+          "enum": [
+            "flux1-lora-return-to-monkey-island_693759_776404.safetensors"
+          ]
+        },
+        {
+          "description": "flux1-lora-sam-and-max-hit-the-road",
+          "enum": [
+            "flux1-lora-sam-and-max-hit-the-road_687258_769182.safetensors"
+          ]
+        },
+        {
+          "description": "fluxlive2d-virtual-avatar-quick-creation-live2d-vroid",
+          "enum": [
+            "fluxlive2d-virtual-avatar-quick-creation-live2d-vroid_712299_796681.safetensors"
           ]
         },
         {
@@ -508,6 +856,36 @@
           ]
         },
         {
+          "description": "flux",
+          "enum": [
+            "flux_702901_786339.safetensors"
+          ]
+        },
+        {
+          "description": "food-world",
+          "enum": [
+            "food-world_721015_809888.safetensors"
+          ]
+        },
+        {
+          "description": "formfinder-flux",
+          "enum": [
+            "formfinder-flux_680852_762084.safetensors"
+          ]
+        },
+        {
+          "description": "franklin-booth-style",
+          "enum": [
+            "franklin-booth-style_453134_777296.safetensors"
+          ]
+        },
+        {
+          "description": "frostedanimatedstyle-flux-paseer",
+          "enum": [
+            "frostedanimatedstyle-flux-paseer_692493_774990.safetensors"
+          ]
+        },
+        {
           "description": "fursuit-lora",
           "enum": [
             "fursuit-lora_563588_734944.safetensors"
@@ -520,9 +898,39 @@
           ]
         },
         {
+          "description": "game-assets-lowpoly-style-3d-background-assets-for-games-flux",
+          "enum": [
+            "game-assets-lowpoly-style-3d-background-assets-for-games-flux_676027_756741.safetensors"
+          ]
+        },
+        {
+          "description": "game-assetsa-world-made-of-colorful-candy-beads-dense-cluster-phobics-enter-with-caution",
+          "enum": [
+            "game-assetsa-world-made-of-colorful-candy-beads-dense-cluster-phobics-enter-with-caution_701549_784950.safetensors"
+          ]
+        },
+        {
+          "description": "game-assetsdont-starve-style-character-design-game-scene-design-flux",
+          "enum": [
+            "game-assetsdont-starve-style-character-design-game-scene-design-flux_703046_786460.safetensors"
+          ]
+        },
+        {
+          "description": "garagekitstyle",
+          "enum": [
+            "garagekitstyle_692593_775105.safetensors"
+          ]
+        },
+        {
           "description": "ghibli-kikilapetitesorciere-style-flux-and-sdxl",
           "enum": [
             "ghibli-kikilapetitesorciere-style-flux-and-sdxl_523485_732778.safetensors"
+          ]
+        },
+        {
+          "description": "ghibli-style-flux-and-pdxl",
+          "enum": [
+            "ghibli-style-flux-and-pdxl_433138_755852.safetensors"
           ]
         },
         {
@@ -562,9 +970,63 @@
           ]
         },
         {
+          "description": "hard-edge-pixel-art",
+          "enum": [
+            "hard-edge-pixel-art_681332_762594.safetensors"
+          ]
+        },
+        {
+          "description": "haunted-linework-flux",
+          "enum": [
+            "haunted-linework-flux_657159_735253.safetensors"
+          ]
+        },
+        {
+          "description": "heavymetalstyle-xl",
+          "enum": [
+            "heavymetalstyle-xl_179844_745309.safetensors"
+          ]
+        },
+        {
+          "description": "hh-archframesflux",
+          "enum": [
+            "hh-archframesflux_668765_748666.safetensors"
+          ]
+        },
+        {
+          "description": "hh-archhorizontalflux",
+          "enum": [
+            "hh-archhorizontalflux_668750_748648.safetensors"
+          ]
+        },
+        {
+          "description": "hh-archstackedflux",
+          "enum": [
+            "hh-archstackedflux_668784_748688.safetensors"
+          ]
+        },
+        {
+          "description": "hh-archvoidflux",
+          "enum": [
+            "hh-archvoidflux_668800_748704.safetensors"
+          ]
+        },
+        {
           "description": "holographic-test",
           "enum": [
             "holographic-test_679615_760721.safetensors"
+          ]
+        },
+        {
+          "description": "illulora-simple-illustration-style",
+          "enum": [
+            "illulora-simple-illustration-style_665753_745084.safetensors"
+          ]
+        },
+        {
+          "description": "illustrationscute-cartoon-cute-manga-flux",
+          "enum": [
+            "illustrationscute-cartoon-cute-manga-flux_681642_762939.safetensors"
           ]
         },
         {
@@ -580,9 +1042,27 @@
           ]
         },
         {
+          "description": "ishincutewoolstyleflux",
+          "enum": [
+            "ishincutewoolstyleflux_722040_807352.safetensors"
+          ]
+        },
+        {
           "description": "isometrica-flux",
           "enum": [
             "isometrica-flux_720442_805591.safetensors"
+          ]
+        },
+        {
+          "description": "itojunji-lora",
+          "enum": [
+            "itojunji-lora_708631_792617.safetensors"
+          ]
+        },
+        {
+          "description": "jade-pony-paseer",
+          "enum": [
+            "jade-pony-paseer_440140_727856.safetensors"
           ]
         },
         {
@@ -598,9 +1078,39 @@
           ]
         },
         {
+          "description": "just-the-tits",
+          "enum": [
+            "just-the-tits_708319_812283.safetensors"
+          ]
+        },
+        {
+          "description": "kentaro-miura-style",
+          "enum": [
+            "kentaro-miura-style_691349_773754.safetensors"
+          ]
+        },
+        {
           "description": "kentaylor",
           "enum": [
             "kentaylor_687613_769590.safetensors"
+          ]
+        },
+        {
+          "description": "koda-diffusion-flux",
+          "enum": [
+            "koda-diffusion-flux_653093_730657.safetensors"
+          ]
+        },
+        {
+          "description": "ktv-private-room",
+          "enum": [
+            "ktv-private-room_275579_778184.safetensors"
+          ]
+        },
+        {
+          "description": "len-style-flux",
+          "enum": [
+            "len-style-flux_701806_785227.safetensors"
           ]
         },
         {
@@ -622,6 +1132,18 @@
           ]
         },
         {
+          "description": "linnea-beta",
+          "enum": [
+            "linnea-beta_690442_772733.safetensors"
+          ]
+        },
+        {
+          "description": "logo-flux-1d-lora-or-simple-color-style",
+          "enum": [
+            "logo-flux-1d-lora-or-simple-color-style_716810_801591.safetensors"
+          ]
+        },
+        {
           "description": "lorena-style-or-profesional-retro-futuristic-lora",
           "enum": [
             "lorena-style-or-profesional-retro-futuristic-lora_688418_770487.safetensors"
@@ -637,6 +1159,30 @@
           "description": "machinart-lora-machinarium-style-flux",
           "enum": [
             "machinart-lora-machinarium-style-flux_676076_756824.safetensors"
+          ]
+        },
+        {
+          "description": "madworld-wii-style-f1d",
+          "enum": [
+            "madworld-wii-style-f1d_720870_806064.safetensors"
+          ]
+        },
+        {
+          "description": "marksketdra-flux1d-sketch-marker-style",
+          "enum": [
+            "marksketdra-flux1d-sketch-marker-style_684145_765734.safetensors"
+          ]
+        },
+        {
+          "description": "meat-or-flux-lora",
+          "enum": [
+            "meat-or-flux-lora_653180_730750.safetensors"
+          ]
+        },
+        {
+          "description": "miasma-official",
+          "enum": [
+            "miasma-official_720775_805978.safetensors"
           ]
         },
         {
@@ -658,6 +1204,18 @@
           ]
         },
         {
+          "description": "minimalism-style",
+          "enum": [
+            "minimalism-style_676200_756950.safetensors"
+          ]
+        },
+        {
+          "description": "minimalist-anime-flux",
+          "enum": [
+            "minimalist-anime-flux_649035_726135.safetensors"
+          ]
+        },
+        {
           "description": "minimalist-line-art-sdxl-pony",
           "enum": [
             "minimalist-line-art-sdxl-pony_645070_789742.safetensors"
@@ -676,9 +1234,33 @@
           ]
         },
         {
+          "description": "mooniverse",
+          "enum": [
+            "mooniverse_721398_806645.safetensors"
+          ]
+        },
+        {
+          "description": "mouse-guard-style-flux",
+          "enum": [
+            "mouse-guard-style-flux_696716_779652.safetensors"
+          ]
+        },
+        {
           "description": "naoki-urasawa-manga-style-flux-lora",
           "enum": [
             "naoki-urasawa-manga-style-flux-lora_690155_772410.safetensors"
+          ]
+        },
+        {
+          "description": "neverhood-claymation-style-f1d",
+          "enum": [
+            "neverhood-claymation-style-f1d_697686_780719.safetensors"
+          ]
+        },
+        {
+          "description": "not-the-true-world-flux",
+          "enum": [
+            "not-the-true-world-flux_656031_798587.safetensors"
           ]
         },
         {
@@ -688,15 +1270,45 @@
           ]
         },
         {
+          "description": "old-space-station-artstyle-flux-lora",
+          "enum": [
+            "old-space-station-artstyle-flux-lora_665151_744392.safetensors"
+          ]
+        },
+        {
           "description": "opal-fantasy-flux",
           "enum": [
             "opal-fantasy-flux_699570_782778.safetensors"
           ]
         },
         {
+          "description": "origami",
+          "enum": [
+            "origami_718739_803692.safetensors"
+          ]
+        },
+        {
           "description": "painted-world-or-pony-sdxl-flux",
           "enum": [
             "painted-world-or-pony-sdxl-flux_242763_796163.safetensors"
+          ]
+        },
+        {
+          "description": "panther-blade-flux",
+          "enum": [
+            "panther-blade-flux_679914_761056.safetensors"
+          ]
+        },
+        {
+          "description": "paseer-sdxlflux-microhouse",
+          "enum": [
+            "paseer-sdxlflux-microhouse_118910_780969.safetensors"
+          ]
+        },
+        {
+          "description": "patrimi-architectural-style-exterior-joy",
+          "enum": [
+            "patrimi-architectural-style-exterior-joy_693168_775723.safetensors"
           ]
         },
         {
@@ -748,15 +1360,51 @@
           ]
         },
         {
+          "description": "pixel-art-style",
+          "enum": [
+            "pixel-art-style_689318_771472.safetensors"
+          ]
+        },
+        {
           "description": "pixelart-flux-sdxl-pony",
           "enum": [
             "pixelart-flux-sdxl-pony_545374_751001.safetensors"
           ]
         },
         {
+          "description": "pixelenhence-flux-paseer",
+          "enum": [
+            "pixelenhence-flux-paseer_643476_719778.safetensors"
+          ]
+        },
+        {
+          "description": "plushy-world-flux",
+          "enum": [
+            "plushy-world-flux_657179_735275.safetensors"
+          ]
+        },
+        {
           "description": "polaroid-flux1-lora",
           "enum": [
             "polaroid-flux1-lora_721232_806465.safetensors"
+          ]
+        },
+        {
+          "description": "product-photography-flux-or-soft-light-cosmetics",
+          "enum": [
+            "product-photography-flux-or-soft-light-cosmetics_706293_790057.safetensors"
+          ]
+        },
+        {
+          "description": "pvc-style-model-figure-model-lora",
+          "enum": [
+            "pvc-style-model-figure-model-lora_666919_746404.safetensors"
+          ]
+        },
+        {
+          "description": "real-nipples-and-areola-textures-gmr",
+          "enum": [
+            "real-nipples-and-areola-textures-gmr_708532_792499.safetensors"
           ]
         },
         {
@@ -772,6 +1420,12 @@
           ]
         },
         {
+          "description": "retro-comic-style-betty-and-me",
+          "enum": [
+            "retro-comic-style-betty-and-me_673335_753754.safetensors"
+          ]
+        },
+        {
           "description": "rick-and-morty-flux",
           "enum": [
             "rick-and-morty-flux_684196_765792.safetensors"
@@ -784,9 +1438,27 @@
           ]
         },
         {
+          "description": "rubbercore-1920s-cartoon-style",
+          "enum": [
+            "rubbercore-1920s-cartoon-style_686138_767927.safetensors"
+          ]
+        },
+        {
           "description": "sailor-moon-esque-retro-anime-style-lora-flux",
           "enum": [
             "sailor-moon-esque-retro-anime-style-lora-flux_706372_790129.safetensors"
+          ]
+        },
+        {
+          "description": "satoshi-urushihara-style",
+          "enum": [
+            "satoshi-urushihara-style_7227_790696.safetensors"
+          ]
+        },
+        {
+          "description": "scavengers-reign-flux",
+          "enum": [
+            "scavengers-reign-flux_667703_747404.safetensors"
           ]
         },
         {
@@ -799,6 +1471,18 @@
           "description": "selfie-pov-10",
           "enum": [
             "selfie-pov-10_578724_744296.safetensors"
+          ]
+        },
+        {
+          "description": "serafleur-or-anime-or-artstyle-lora",
+          "enum": [
+            "serafleur-or-anime-or-artstyle-lora_701817_785239.safetensors"
+          ]
+        },
+        {
+          "description": "sholwlw-style-flux",
+          "enum": [
+            "sholwlw-style-flux_724937_810632.safetensors"
           ]
         },
         {
@@ -820,9 +1504,21 @@
           ]
         },
         {
+          "description": "simon-stalenhag-style-flux",
+          "enum": [
+            "simon-stalenhag-style-flux_711039_795293.safetensors"
+          ]
+        },
+        {
           "description": "simple-illustration-style",
           "enum": [
             "simple-illustration-style_732559_819193.safetensors"
+          ]
+        },
+        {
+          "description": "simplistic-embroidery-flux",
+          "enum": [
+            "simplistic-embroidery-flux_645447_722056.safetensors"
           ]
         },
         {
@@ -838,705 +1534,15 @@
           ]
         },
         {
+          "description": "softserve-anime-flux",
+          "enum": [
+            "softserve-anime-flux_657191_735293.safetensors"
+          ]
+        },
+        {
           "description": "solarization-gradient-style-flux-ethanar",
           "enum": [
             "solarization-gradient-style-flux-ethanar_697871_780921.safetensors"
-          ]
-        },
-        {
-          "description": "soviet-constructivist-poster",
-          "enum": [
-            "soviet-constructivist-poster_695475_778289.safetensors"
-          ]
-        },
-        {
-          "description": "spongebob-text-time-card-lora-flux",
-          "enum": [
-            "spongebob-text-time-card-lora-flux_706465_790224.safetensors"
-          ]
-        },
-        {
-          "description": "steampunk-apparel-for-flux",
-          "enum": [
-            "steampunk-apparel-for-flux_671698_751959.safetensors"
-          ]
-        },
-        {
-          "description": "styleflux-world-of-warcraft",
-          "enum": [
-            "styleflux-world-of-warcraft_693378_775970.safetensors"
-          ]
-        },
-        {
-          "description": "surrealism-cfh",
-          "enum": [
-            "surrealism-cfh_687778_769779.safetensors"
-          ]
-        },
-        {
-          "description": "sxz-dark-fantasy-flux",
-          "enum": [
-            "sxz-dark-fantasy-flux_678853_759880.safetensors"
-          ]
-        },
-        {
-          "description": "sxz-ps1-graphics-flux",
-          "enum": [
-            "sxz-ps1-graphics-flux_664689_743865.safetensors"
-          ]
-        },
-        {
-          "description": "ukiyo-e-for-flux",
-          "enum": [
-            "ukiyo-e-for-flux_694247_776942.safetensors"
-          ]
-        },
-        {
-          "description": "vatoko-hearts-v1-flux",
-          "enum": [
-            "vatoko-hearts-v1-flux_719196_804201.safetensors"
-          ]
-        },
-        {
-          "description": "video-game-lora-sonic-adventure-2",
-          "enum": [
-            "video-game-lora-sonic-adventure-2_659794_738279.safetensors"
-          ]
-        },
-        {
-          "description": "vintage-anime-flux",
-          "enum": [
-            "vintage-anime-flux_659761_738244.safetensors"
-          ]
-        },
-        {
-          "description": "virtual-finlay",
-          "enum": [
-            "virtual-finlay_674911_755493.safetensors"
-          ]
-        },
-        {
-          "description": "wagyu-beef-style-flux",
-          "enum": [
-            "wagyu-beef-style-flux_723713_809218.safetensors"
-          ]
-        },
-        {
-          "description": "world-of-doodle-sdxl-pony-flux",
-          "enum": [
-            "world-of-doodle-sdxl-pony-flux_611764_754514.safetensors"
-          ]
-        },
-        {
-          "description": "zhongfenghuastyleflux-lora-or-flux-lora",
-          "enum": [
-            "zhongfenghuastyleflux-lora-or-flux-lora_712031_796377.safetensors"
-          ]
-        },
-        {
-          "description": "commodore-64-style-pixel-art",
-          "enum": [
-            "commodore-64-style-pixel-art_304097_804983.safetensors"
-          ]
-        },
-        {
-          "description": "top-down-map",
-          "enum": [
-            "top-down-map_667193_746743.safetensors"
-          ]
-        },
-        {
-          "description": "deus-ex-style-flux",
-          "enum": [
-            "deus-ex-style-flux_709157_793219.safetensors"
-          ]
-        },
-        {
-          "description": "satoshi-urushihara-style",
-          "enum": [
-            "satoshi-urushihara-style_7227_790696.safetensors"
-          ]
-        },
-        {
-          "description": "disney-animated-style-lora-flux1-dev",
-          "enum": [
-            "disney-animated-style-lora-flux1-dev_706762_790552.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-abstract-background-01",
-          "enum": [
-            "envy-flux-abstract-background-01_678830_759851.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-character-concept-01",
-          "enum": [
-            "envy-flux-character-concept-01_692162_774619.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-classic-02",
-          "enum": [
-            "envy-flux-classic-02_663056_743101.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-kawaii-sticker-01",
-          "enum": [
-            "envy-flux-kawaii-sticker-01_681851_763167.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-liminal-01",
-          "enum": [
-            "envy-flux-liminal-01_695983_778837.safetensors"
-          ]
-        },
-        {
-          "description": "envy-flux-vintage-speedpaint-01",
-          "enum": [
-            "envy-flux-vintage-speedpaint-01_657552_735712.safetensors"
-          ]
-        },
-        {
-          "description": "flux1-d-image-fubarizer-test",
-          "enum": [
-            "flux1-d-image-fubarizer-test_693881_776530.safetensors"
-          ]
-        },
-        {
-          "description": "ghibli-style-flux-and-pdxl",
-          "enum": [
-            "ghibli-style-flux-and-pdxl_433138_755852.safetensors"
-          ]
-        },
-        {
-          "description": "hard-edge-pixel-art",
-          "enum": [
-            "hard-edge-pixel-art_681332_762594.safetensors"
-          ]
-        },
-        {
-          "description": "heavymetalstyle-xl",
-          "enum": [
-            "heavymetalstyle-xl_179844_745309.safetensors"
-          ]
-        },
-        {
-          "description": "itojunji-lora",
-          "enum": [
-            "itojunji-lora_708631_792617.safetensors"
-          ]
-        },
-        {
-          "description": "minimalist-anime-flux",
-          "enum": [
-            "minimalist-anime-flux_649035_726135.safetensors"
-          ]
-        },
-        {
-          "description": "flux-lora-balaenoptera-style",
-          "enum": [
-            "flux-lora-balaenoptera-style_712297_796676.safetensors"
-          ]
-        },
-        {
-          "description": "team-fortress-2-style-f1d",
-          "enum": [
-            "team-fortress-2-style-f1d_711818_796155.safetensors"
-          ]
-        },
-        {
-          "description": "neverhood-claymation-style-f1d",
-          "enum": [
-            "neverhood-claymation-style-f1d_697686_780719.safetensors"
-          ]
-        },
-        {
-          "description": "madworld-wii-style-f1d",
-          "enum": [
-            "madworld-wii-style-f1d_720870_806064.safetensors"
-          ]
-        },
-        {
-          "description": "minimalism-style",
-          "enum": [
-            "minimalism-style_676200_756950.safetensors"
-          ]
-        },
-        {
-          "description": "flux-rosina-wachtmeister-artist-style",
-          "enum": [
-            "flux-rosina-wachtmeister-artist-style_703166_786587.safetensors"
-          ]
-        },
-        {
-          "description": "franklin-booth-style",
-          "enum": [
-            "franklin-booth-style_453134_777296.safetensors"
-          ]
-        },
-        {
-          "description": "vector-art-and-line-art-flux",
-          "enum": [
-            "vector-art-and-line-art-flux_686231_768020.safetensors"
-          ]
-        },
-        {
-          "description": "yogisya-style-flux",
-          "enum": [
-            "yogisya-style-flux_682092_770636.safetensors"
-          ]
-        },
-        {
-          "description": "egg-ricetkgtamago-kake-gohan",
-          "enum": [
-            "egg-ricetkgtamago-kake-gohan_723677_810642.safetensors"
-          ]
-        },
-        {
-          "description": "animescarflux",
-          "enum": [
-            "animescarflux_729619_815886.safetensors"
-          ]
-        },
-        {
-          "description": "classic-manga",
-          "enum": [
-            "classic-manga_699491_782690.safetensors"
-          ]
-        },
-        {
-          "description": "definitive-disney-studios-style-pony-and-flux-by-yeiyeiart",
-          "enum": [
-            "definitive-disney-studios-style-pony-and-flux-by-yeiyeiart_404277_738866.safetensors"
-          ]
-        },
-        {
-          "description": "flux-links-awakening-or-f1",
-          "enum": [
-            "flux-links-awakening-or-f1_729259_815496.safetensors"
-          ]
-        },
-        {
-          "description": "flux-pokegirls-pokemon",
-          "enum": [
-            "flux-pokegirls-pokemon_689643_771839.safetensors"
-          ]
-        },
-        {
-          "description": "hh-archframesflux",
-          "enum": [
-            "hh-archframesflux_668765_748666.safetensors"
-          ]
-        },
-        {
-          "description": "hh-archhorizontalflux",
-          "enum": [
-            "hh-archhorizontalflux_668750_748648.safetensors"
-          ]
-        },
-        {
-          "description": "hh-archstackedflux",
-          "enum": [
-            "hh-archstackedflux_668784_748688.safetensors"
-          ]
-        },
-        {
-          "description": "hh-archvoidflux",
-          "enum": [
-            "hh-archvoidflux_668800_748704.safetensors"
-          ]
-        },
-        {
-          "description": "not-the-true-world-flux",
-          "enum": [
-            "not-the-true-world-flux_656031_798587.safetensors"
-          ]
-        },
-        {
-          "description": "origami",
-          "enum": [
-            "origami_718739_803692.safetensors"
-          ]
-        },
-        {
-          "description": "stalenhag",
-          "enum": [
-            "stalenhag_671138_751327.safetensors"
-          ]
-        },
-        {
-          "description": "the-pulp-session",
-          "enum": [
-            "the-pulp-session_702282_785748.safetensors"
-          ]
-        },
-        {
-          "description": "wool-feltchibi-cute-cartoon-doll-character-scene-design-flux",
-          "enum": [
-            "wool-feltchibi-cute-cartoon-doll-character-scene-design-flux_719272_804285.safetensors"
-          ]
-        },
-        {
-          "description": "patrimi-architectural-style-exterior-joy",
-          "enum": [
-            "patrimi-architectural-style-exterior-joy_693168_775723.safetensors"
-          ]
-        },
-        {
-          "description": "flat-cartoon-style",
-          "enum": [
-            "flat-cartoon-style_644541_740091.safetensors"
-          ]
-        },
-        {
-          "description": "rubbercore-1920s-cartoon-style",
-          "enum": [
-            "rubbercore-1920s-cartoon-style_686138_767927.safetensors"
-          ]
-        },
-        {
-          "description": "frostedanimatedstyle-flux-paseer",
-          "enum": [
-            "frostedanimatedstyle-flux-paseer_692493_774990.safetensors"
-          ]
-        },
-        {
-          "description": "voxel-art",
-          "enum": [
-            "voxel-art_690108_772383.safetensors"
-          ]
-        },
-        {
-          "description": "disgaea-7-style-f1d",
-          "enum": [
-            "disgaea-7-style-f1d_729953_816265.safetensors"
-          ]
-        },
-        {
-          "description": "pixelenhence-flux-paseer",
-          "enum": [
-            "pixelenhence-flux-paseer_643476_719778.safetensors"
-          ]
-        },
-        {
-          "description": "transgender-hair",
-          "enum": [
-            "transgender-hair_698585_792408.safetensors"
-          ]
-        },
-        {
-          "description": "3dflux-style",
-          "enum": [
-            "3dflux-style_689478_771650.safetensors"
-          ]
-        },
-        {
-          "description": "paseer-sdxlflux-microhouse",
-          "enum": [
-            "paseer-sdxlflux-microhouse_118910_780969.safetensors"
-          ]
-        },
-        {
-          "description": "spirited-away-ghibli-style-for-flux",
-          "enum": [
-            "spirited-away-ghibli-style-for-flux_683222_764708.safetensors"
-          ]
-        },
-        {
-          "description": "mouse-guard-style-flux",
-          "enum": [
-            "mouse-guard-style-flux_696716_779652.safetensors"
-          ]
-        },
-        {
-          "description": "taroo-a-tarot-card-lora-flux",
-          "enum": [
-            "taroo-a-tarot-card-lora-flux_684290_765900.safetensors"
-          ]
-        },
-        {
-          "description": "miasma-official",
-          "enum": [
-            "miasma-official_720775_805978.safetensors"
-          ]
-        },
-        {
-          "description": "3d-chibi-toyair-dry-clay-style-flux",
-          "enum": [
-            "3d-chibi-toyair-dry-clay-style-flux_689231_771373.safetensors"
-          ]
-        },
-        {
-          "description": "aesthetic-lora-for-flux",
-          "enum": [
-            "aesthetic-lora-for-flux_633553_740450.safetensors"
-          ]
-        },
-        {
-          "description": "cinematic-lego",
-          "enum": [
-            "cinematic-lego_677718_758624.safetensors"
-          ]
-        },
-        {
-          "description": "darius-kawasaki-painting-style-flux1-d-lora",
-          "enum": [
-            "darius-kawasaki-painting-style-flux1-d-lora_655712_748469.safetensors"
-          ]
-        },
-        {
-          "description": "flux-outdoor-e-commerce-products",
-          "enum": [
-            "flux-outdoor-e-commerce-products_712750_797162.safetensors"
-          ]
-        },
-        {
-          "description": "food-world",
-          "enum": [
-            "food-world_721015_809888.safetensors"
-          ]
-        },
-        {
-          "description": "game-assetsdont-starve-style-character-design-game-scene-design-flux",
-          "enum": [
-            "game-assetsdont-starve-style-character-design-game-scene-design-flux_703046_786460.safetensors"
-          ]
-        },
-        {
-          "description": "garagekitstyle",
-          "enum": [
-            "garagekitstyle_692593_775105.safetensors"
-          ]
-        },
-        {
-          "description": "illustrationscute-cartoon-cute-manga-flux",
-          "enum": [
-            "illustrationscute-cartoon-cute-manga-flux_681642_762939.safetensors"
-          ]
-        },
-        {
-          "description": "serafleur-or-anime-or-artstyle-lora",
-          "enum": [
-            "serafleur-or-anime-or-artstyle-lora_701817_785239.safetensors"
-          ]
-        },
-        {
-          "description": "vibrant-anime-style",
-          "enum": [
-            "vibrant-anime-style_712139_796494.safetensors"
-          ]
-        },
-        {
-          "description": "animation2k-flux",
-          "enum": [
-            "animation2k-flux_660971_739660.safetensors"
-          ]
-        },
-        {
-          "description": "ascii-art-flux",
-          "enum": [
-            "ascii-art-flux_648623_725667.safetensors"
-          ]
-        },
-        {
-          "description": "bartolomeobari-style-flux",
-          "enum": [
-            "bartolomeobari-style-flux_656899_734969.safetensors"
-          ]
-        },
-        {
-          "description": "boreal-fd-boring-reality-flux-dev-lora",
-          "enum": [
-            "boreal-fd-boring-reality-flux-dev-lora_639937_810340.safetensors"
-          ]
-        },
-        {
-          "description": "childparkai-loraarchitecture-morph",
-          "enum": [
-            "childparkai-loraarchitecture-morph_695271_778071.safetensors"
-          ]
-        },
-        {
-          "description": "china3dpaintingai-loraart-morph",
-          "enum": [
-            "china3dpaintingai-loraart-morph_690979_773334.safetensors"
-          ]
-        },
-        {
-          "description": "dark-sector-style",
-          "enum": [
-            "dark-sector-style_673203_753606.safetensors"
-          ]
-        },
-        {
-          "description": "dreamy-floating-flux-lora",
-          "enum": [
-            "dreamy-floating-flux-lora_663582_742633.safetensors"
-          ]
-        },
-        {
-          "description": "eldritch-parchment-art-or-for-flux1-dev",
-          "enum": [
-            "eldritch-parchment-art-or-for-flux1-dev_668651_748533.safetensors"
-          ]
-        },
-        {
-          "description": "flux-bing-anime-lucid-aiai-b1ng-lucid-lora",
-          "enum": [
-            "flux-bing-anime-lucid-aiai-b1ng-lucid-lora_682050_795006.safetensors"
-          ]
-        },
-        {
-          "description": "flux-cartoonillustration",
-          "enum": [
-            "flux-cartoonillustration_656307_734299.safetensors"
-          ]
-        },
-        {
-          "description": "flux-dream",
-          "enum": [
-            "flux-dream_656339_734332.safetensors"
-          ]
-        },
-        {
-          "description": "flux-eva-aiai-3v4-lora",
-          "enum": [
-            "flux-eva-aiai-3v4-lora_667585_809548.safetensors"
-          ]
-        },
-        {
-          "description": "flux-flat-anime-lora",
-          "enum": [
-            "flux-flat-anime-lora_697676_780723.safetensors"
-          ]
-        },
-        {
-          "description": "flux-greenification",
-          "enum": [
-            "flux-greenification_659373_737805.safetensors"
-          ]
-        },
-        {
-          "description": "flux-lora-minimalist-line-style",
-          "enum": [
-            "flux-lora-minimalist-line-style_657321_735459.safetensors"
-          ]
-        },
-        {
-          "description": "flux-lora",
-          "enum": [
-            "flux-lora_644150_720543.safetensors"
-          ]
-        },
-        {
-          "description": "flux-plastic3d",
-          "enum": [
-            "flux-plastic3d_696570_779503.safetensors"
-          ]
-        },
-        {
-          "description": "flux-simple-line-drawing",
-          "enum": [
-            "flux-simple-line-drawing_656387_734382.safetensors"
-          ]
-        },
-        {
-          "description": "flux1-lora-day-of-the-tentacle-remastered",
-          "enum": [
-            "flux1-lora-day-of-the-tentacle-remastered_687204_769123.safetensors"
-          ]
-        },
-        {
-          "description": "flux1-lora-return-to-monkey-island",
-          "enum": [
-            "flux1-lora-return-to-monkey-island_693759_776404.safetensors"
-          ]
-        },
-        {
-          "description": "flux1-lora-sam-and-max-hit-the-road",
-          "enum": [
-            "flux1-lora-sam-and-max-hit-the-road_687258_769182.safetensors"
-          ]
-        },
-        {
-          "description": "formfinder-flux",
-          "enum": [
-            "formfinder-flux_680852_762084.safetensors"
-          ]
-        },
-        {
-          "description": "ishincutewoolstyleflux",
-          "enum": [
-            "ishincutewoolstyleflux_722040_807352.safetensors"
-          ]
-        },
-        {
-          "description": "just-the-tits",
-          "enum": [
-            "just-the-tits_708319_812283.safetensors"
-          ]
-        },
-        {
-          "description": "kentaro-miura-style",
-          "enum": [
-            "kentaro-miura-style_691349_773754.safetensors"
-          ]
-        },
-        {
-          "description": "ktv-private-room",
-          "enum": [
-            "ktv-private-room_275579_778184.safetensors"
-          ]
-        },
-        {
-          "description": "marksketdra-flux1d-sketch-marker-style",
-          "enum": [
-            "marksketdra-flux1d-sketch-marker-style_684145_765734.safetensors"
-          ]
-        },
-        {
-          "description": "meat-or-flux-lora",
-          "enum": [
-            "meat-or-flux-lora_653180_730750.safetensors"
-          ]
-        },
-        {
-          "description": "pixel-art-style",
-          "enum": [
-            "pixel-art-style_689318_771472.safetensors"
-          ]
-        },
-        {
-          "description": "real-nipples-and-areola-textures-gmr",
-          "enum": [
-            "real-nipples-and-areola-textures-gmr_708532_792499.safetensors"
-          ]
-        },
-        {
-          "description": "retro-comic-style-betty-and-me",
-          "enum": [
-            "retro-comic-style-betty-and-me_673335_753754.safetensors"
-          ]
-        },
-        {
-          "description": "scavengers-reign-flux",
-          "enum": [
-            "scavengers-reign-flux_667703_747404.safetensors"
-          ]
-        },
-        {
-          "description": "sholwlw-style-flux",
-          "enum": [
-            "sholwlw-style-flux_724937_810632.safetensors"
-          ]
-        },
-        {
-          "description": "simplistic-embroidery-flux",
-          "enum": [
-            "simplistic-embroidery-flux_645447_722056.safetensors"
           ]
         },
         {
@@ -1546,81 +1552,39 @@
           ]
         },
         {
+          "description": "soviet-constructivist-poster",
+          "enum": [
+            "soviet-constructivist-poster_695475_778289.safetensors"
+          ]
+        },
+        {
+          "description": "spirited-away-ghibli-style-for-flux",
+          "enum": [
+            "spirited-away-ghibli-style-for-flux_683222_764708.safetensors"
+          ]
+        },
+        {
+          "description": "spongebob-text-time-card-lora-flux",
+          "enum": [
+            "spongebob-text-time-card-lora-flux_706465_790224.safetensors"
+          ]
+        },
+        {
+          "description": "stalenhag",
+          "enum": [
+            "stalenhag_671138_751327.safetensors"
+          ]
+        },
+        {
+          "description": "steampunk-apparel-for-flux",
+          "enum": [
+            "steampunk-apparel-for-flux_671698_751959.safetensors"
+          ]
+        },
+        {
           "description": "streetwear-flux",
           "enum": [
             "streetwear-flux_695022_777802.safetensors"
-          ]
-        },
-        {
-          "description": "syd-mead-style-concept-art-and-creative-visions",
-          "enum": [
-            "syd-mead-style-concept-art-and-creative-visions_682845_764288.safetensors"
-          ]
-        },
-        {
-          "description": "the-wizards-vintage-comic-book-cover",
-          "enum": [
-            "the-wizards-vintage-comic-book-cover_210095_744013.safetensors"
-          ]
-        },
-        {
-          "description": "watercolor-archslra",
-          "enum": [
-            "watercolor-archslra_696962_779939.safetensors"
-          ]
-        },
-        {
-          "description": "world-of-horror-flux-d",
-          "enum": [
-            "world-of-horror-flux-d_676564_758967.safetensors"
-          ]
-        },
-        {
-          "description": "zdzislaw-beksinskie-style-flux-lora",
-          "enum": [
-            "zdzislaw-beksinskie-style-flux-lora_659150_737548.safetensors"
-          ]
-        },
-        {
-          "description": "jade-pony-paseer",
-          "enum": [
-            "jade-pony-paseer_440140_727856.safetensors"
-          ]
-        },
-        {
-          "description": "ang-bohus-painting-style-lora",
-          "enum": [
-            "ang-bohus-painting-style-lora_36979_771294.safetensors"
-          ]
-        },
-        {
-          "description": "anythingxl-style-for-flux",
-          "enum": [
-            "anythingxl-style-for-flux_710652_794865.safetensors"
-          ]
-        },
-        {
-          "description": "brutalist-monument-flux",
-          "enum": [
-            "brutalist-monument-flux_654226_731931.safetensors"
-          ]
-        },
-        {
-          "description": "comic-illustrationpastel-color-illustrations-people-and-scenes-flux",
-          "enum": [
-            "comic-illustrationpastel-color-illustrations-people-and-scenes-flux_684274_765877.safetensors"
-          ]
-        },
-        {
-          "description": "game-assets-lowpoly-style-3d-background-assets-for-games-flux",
-          "enum": [
-            "game-assets-lowpoly-style-3d-background-assets-for-games-flux_676027_756741.safetensors"
-          ]
-        },
-        {
-          "description": "game-assetsa-world-made-of-colorful-candy-beads-dense-cluster-phobics-enter-with-caution",
-          "enum": [
-            "game-assetsa-world-made-of-colorful-candy-beads-dense-cluster-phobics-enter-with-caution_701549_784950.safetensors"
           ]
         },
         {
@@ -1648,153 +1612,33 @@
           ]
         },
         {
-          "description": "brand-marks-logo-icon-symbol",
+          "description": "styleflux-world-of-warcraft",
           "enum": [
-            "brand-marks-logo-icon-symbol_710493_794687.safetensors"
+            "styleflux-world-of-warcraft_693378_775970.safetensors"
           ]
         },
         {
-          "description": "flux-gen-5-trainer-sprites",
+          "description": "surrealism-cfh",
           "enum": [
-            "flux-gen-5-trainer-sprites_704779_788326.safetensors"
+            "surrealism-cfh_687778_769779.safetensors"
           ]
         },
         {
-          "description": "flux-rem-ram-beatrice-emilia-subaru-and-puck-rezero-multi-character",
+          "description": "sxz-dark-fantasy-flux",
           "enum": [
-            "flux-rem-ram-beatrice-emilia-subaru-and-puck-rezero-multi-character_679132_760199.safetensors"
+            "sxz-dark-fantasy-flux_678853_759880.safetensors"
           ]
         },
         {
-          "description": "pvc-style-model-figure-model-lora",
+          "description": "sxz-ps1-graphics-flux",
           "enum": [
-            "pvc-style-model-figure-model-lora_666919_746404.safetensors"
+            "sxz-ps1-graphics-flux_664689_743865.safetensors"
           ]
         },
         {
-          "description": "akfu-environments",
+          "description": "syd-mead-style-concept-art-and-creative-visions",
           "enum": [
-            "akfu-environments_20412_771477.safetensors"
-          ]
-        },
-        {
-          "description": "dalcefoflux1dev-emoart",
-          "enum": [
-            "dalcefoflux1dev-emoart_688390_770459.safetensors"
-          ]
-        },
-        {
-          "description": "daubrez-flux",
-          "enum": [
-            "daubrez-flux_696050_778925.safetensors"
-          ]
-        },
-        {
-          "description": "flux-syntheticanime",
-          "enum": [
-            "flux-syntheticanime_645425_722013.safetensors"
-          ]
-        },
-        {
-          "description": "flux",
-          "enum": [
-            "flux_702901_786339.safetensors"
-          ]
-        },
-        {
-          "description": "haunted-linework-flux",
-          "enum": [
-            "haunted-linework-flux_657159_735253.safetensors"
-          ]
-        },
-        {
-          "description": "len-style-flux",
-          "enum": [
-            "len-style-flux_701806_785227.safetensors"
-          ]
-        },
-        {
-          "description": "linnea-beta",
-          "enum": [
-            "linnea-beta_690442_772733.safetensors"
-          ]
-        },
-        {
-          "description": "old-space-station-artstyle-flux-lora",
-          "enum": [
-            "old-space-station-artstyle-flux-lora_665151_744392.safetensors"
-          ]
-        },
-        {
-          "description": "plushy-world-flux",
-          "enum": [
-            "plushy-world-flux_657179_735275.safetensors"
-          ]
-        },
-        {
-          "description": "simon-stalenhag-style-flux",
-          "enum": [
-            "simon-stalenhag-style-flux_711039_795293.safetensors"
-          ]
-        },
-        {
-          "description": "tarot-dev-flux-lora",
-          "enum": [
-            "tarot-dev-flux-lora_689849_772064.safetensors"
-          ]
-        },
-        {
-          "description": "the-point-flux",
-          "enum": [
-            "the-point-flux_657169_735262.safetensors"
-          ]
-        },
-        {
-          "description": "mooniverse",
-          "enum": [
-            "mooniverse_721398_806645.safetensors"
-          ]
-        },
-        {
-          "description": "3d-e-commerce-flux-lora-or-miniature-cartoon-style",
-          "enum": [
-            "3d-e-commerce-flux-lora-or-miniature-cartoon-style_715829_800495.safetensors"
-          ]
-        },
-        {
-          "description": "e-commerce-high-quality-flux1d-lora",
-          "enum": [
-            "e-commerce-high-quality-flux1d-lora_733080_819772.safetensors"
-          ]
-        },
-        {
-          "description": "flux-icon-maker-psiclones-artforge-masterkit",
-          "enum": [
-            "flux-icon-maker-psiclones-artforge-masterkit_722531_807889.safetensors"
-          ]
-        },
-        {
-          "description": "flux-sketch",
-          "enum": [
-            "flux-sketch_702860_786285.safetensors"
-          ]
-        },
-        {
-          "description": "fluxlive2d-virtual-avatar-quick-creation-live2d-vroid",
-          "enum": [
-            "fluxlive2d-virtual-avatar-quick-creation-live2d-vroid_712299_796681.safetensors"
-          ]
-        },
-        {
-          "description": "logo-flux-1d-lora-or-simple-color-style",
-          "enum": [
-            "logo-flux-1d-lora-or-simple-color-style_716810_801591.safetensors"
-          ]
-        },
-        {
-          "description": "product-photography-flux-or-soft-light-cosmetics",
-          "enum": [
-            "product-photography-flux-or-soft-light-cosmetics_706293_790057.safetensors"
+            "syd-mead-style-concept-art-and-creative-visions_682845_764288.safetensors"
           ]
         },
         {
@@ -1804,27 +1648,183 @@
           ]
         },
         {
-          "description": "illulora-simple-illustration-style",
+          "description": "taroo-a-tarot-card-lora-flux",
           "enum": [
-            "illulora-simple-illustration-style_665753_745084.safetensors"
+            "taroo-a-tarot-card-lora-flux_684290_765900.safetensors"
           ]
         },
         {
-          "description": "koda-diffusion-flux",
+          "description": "tarot-dev-flux-lora",
           "enum": [
-            "koda-diffusion-flux_653093_730657.safetensors"
+            "tarot-dev-flux-lora_689849_772064.safetensors"
           ]
         },
         {
-          "description": "panther-blade-flux",
+          "description": "team-fortress-2-style-f1d",
           "enum": [
-            "panther-blade-flux_679914_761056.safetensors"
+            "team-fortress-2-style-f1d_711818_796155.safetensors"
           ]
         },
         {
-          "description": "softserve-anime-flux",
+          "description": "the-point-flux",
           "enum": [
-            "softserve-anime-flux_657191_735293.safetensors"
+            "the-point-flux_657169_735262.safetensors"
+          ]
+        },
+        {
+          "description": "the-pulp-session",
+          "enum": [
+            "the-pulp-session_702282_785748.safetensors"
+          ]
+        },
+        {
+          "description": "the-wizards-vintage-comic-book-cover",
+          "enum": [
+            "the-wizards-vintage-comic-book-cover_210095_744013.safetensors"
+          ]
+        },
+        {
+          "description": "top-down-map",
+          "enum": [
+            "top-down-map_667193_746743.safetensors"
+          ]
+        },
+        {
+          "description": "transgender-hair",
+          "enum": [
+            "transgender-hair_698585_792408.safetensors"
+          ]
+        },
+        {
+          "description": "ukiyo-e-for-flux",
+          "enum": [
+            "ukiyo-e-for-flux_694247_776942.safetensors"
+          ]
+        },
+        {
+          "description": "vatoko-hearts-v1-flux",
+          "enum": [
+            "vatoko-hearts-v1-flux_719196_804201.safetensors"
+          ]
+        },
+        {
+          "description": "vector-art-and-line-art-flux",
+          "enum": [
+            "vector-art-and-line-art-flux_686231_768020.safetensors"
+          ]
+        },
+        {
+          "description": "vibrant-anime-style",
+          "enum": [
+            "vibrant-anime-style_712139_796494.safetensors"
+          ]
+        },
+        {
+          "description": "video-game-lora-sonic-adventure-2",
+          "enum": [
+            "video-game-lora-sonic-adventure-2_659794_738279.safetensors"
+          ]
+        },
+        {
+          "description": "vintage-anime-flux",
+          "enum": [
+            "vintage-anime-flux_659761_738244.safetensors"
+          ]
+        },
+        {
+          "description": "virtual-finlay",
+          "enum": [
+            "virtual-finlay_674911_755493.safetensors"
+          ]
+        },
+        {
+          "description": "voxel-art",
+          "enum": [
+            "voxel-art_690108_772383.safetensors"
+          ]
+        },
+        {
+          "description": "wagyu-beef-style-flux",
+          "enum": [
+            "wagyu-beef-style-flux_723713_809218.safetensors"
+          ]
+        },
+        {
+          "description": "watercolor-archslra",
+          "enum": [
+            "watercolor-archslra_696962_779939.safetensors"
+          ]
+        },
+        {
+          "description": "wool-feltchibi-cute-cartoon-doll-character-scene-design-flux",
+          "enum": [
+            "wool-feltchibi-cute-cartoon-doll-character-scene-design-flux_719272_804285.safetensors"
+          ]
+        },
+        {
+          "description": "world-of-doodle-sdxl-pony-flux",
+          "enum": [
+            "world-of-doodle-sdxl-pony-flux_611764_754514.safetensors"
+          ]
+        },
+        {
+          "description": "world-of-horror-flux-d",
+          "enum": [
+            "world-of-horror-flux-d_676564_758967.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_anime",
+          "enum": [
+            "xlabs_anime.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_art",
+          "enum": [
+            "xlabs_art.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_disney",
+          "enum": [
+            "xlabs_disney.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_mjv6",
+          "enum": [
+            "xlabs_mjv6.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_realism",
+          "enum": [
+            "xlabs_realism.safetensors"
+          ]
+        },
+        {
+          "description": "xlabs_scenery",
+          "enum": [
+            "xlabs_scenery.safetensors"
+          ]
+        },
+        {
+          "description": "yogisya-style-flux",
+          "enum": [
+            "yogisya-style-flux_682092_770636.safetensors"
+          ]
+        },
+        {
+          "description": "zdzislaw-beksinskie-style-flux-lora",
+          "enum": [
+            "zdzislaw-beksinskie-style-flux-lora_659150_737548.safetensors"
+          ]
+        },
+        {
+          "description": "zhongfenghuastyleflux-lora-or-flux-lora",
+          "enum": [
+            "zhongfenghuastyleflux-lora-or-flux-lora_712031_796377.safetensors"
           ]
         }
       ],
