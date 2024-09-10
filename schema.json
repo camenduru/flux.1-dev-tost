@@ -1832,10 +1832,10 @@
     },
     "advokat_aesthetic10k": {
       "type": "string",
-      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f6eba2d-f5ee-4a90-907f-6e3b0a5429b2/width=450/ComfyUI_00477_.jpeg",
-      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56d7c21d-d451-4526-b477-c2edbbf33faa/width=450/ComfyUI_00529_.jpeg",
-      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aef8f998-9c25-4994-bac3-02f6ea3740fd/width=450/ComfyUI_00497_.jpeg",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c44a60d-ddee-46e2-b17b-eedd5742b050/width=450/ComfyUI_00660_.jpeg",
+      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f6eba2d-f5ee-4a90-907f-6e3b0a5429b2/width=450",
+      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56d7c21d-d451-4526-b477-c2edbbf33faa/width=450",
+      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aef8f998-9c25-4994-bac3-02f6ea3740fd/width=450",
+      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c44a60d-ddee-46e2-b17b-eedd5742b050/width=450",
       "model": "https://civitai.com/models/633553/aesthetic-lora-for-flux?modelVersionId=740450",
       "widget": "example",
       "visibleIf": {
@@ -1916,8 +1916,8 @@
     },
     "xlabs_scenery": {
       "type": "string",
-      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1e728e3-957d-4112-8cb5-822574f6ac09/width=450/ComfyUI_00016_.jpeg",
-      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7f2d107-6265-400f-b674-66b6b7dbdb47/width=450/ComfyUI_00014_.jpeg",
+      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1e728e3-957d-4112-8cb5-822574f6ac09/width=450",
+      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7f2d107-6265-400f-b674-66b6b7dbdb47/width=450",
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666550/scenery-lora-flux?modelVersionId=745950",
@@ -4436,9 +4436,9 @@
     },
     "bartolomeobari-style-flux": {
       "type": "string",
-      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1d2abf1-2ec9-4568-9311-7d05c822aae2/width=450/00213-3980357497.jpeg",
-      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce539334-0b6c-49fe-89a9-74afb62a8d3b/width=450/00214-3980357498.jpeg",
-      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/411acf2a-ed9f-42e6-a244-e31c31cb883c/width=450/file.jpeg",
+      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1d2abf1-2ec9-4568-9311-7d05c822aae2/width=450",
+      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce539334-0b6c-49fe-89a9-74afb62a8d3b/width=450",
+      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/411acf2a-ed9f-42e6-a244-e31c31cb883c/width=450",
       "image4": "https://fakeimg.pl/450x579/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/656899/bartolomeobari-style-flux?modelVersionId=734969",
       "widget": "example",
