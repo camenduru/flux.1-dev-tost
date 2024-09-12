@@ -250,12 +250,6 @@
           ]
         },
         {
-          "description": "advokat_aesthetic10k",
-          "enum": [
-            "advokat_aesthetic10k.safetensors"
-          ]
-        },
-        {
           "description": "aesthetic-lora-for-flux",
           "enum": [
             "aesthetic-lora-for-flux_633553_740450.safetensors"
@@ -1829,20 +1823,6 @@
         }
       ],
       "default": "xlabs_realism.safetensors"
-    },
-    "advokat_aesthetic10k": {
-      "type": "string",
-      "image1": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f6eba2d-f5ee-4a90-907f-6e3b0a5429b2/width=450",
-      "image2": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56d7c21d-d451-4526-b477-c2edbbf33faa/width=450",
-      "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aef8f998-9c25-4994-bac3-02f6ea3740fd/width=450",
-      "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c44a60d-ddee-46e2-b17b-eedd5742b050/width=450",
-      "model": "https://civitai.com/models/633553/aesthetic-lora-for-flux?modelVersionId=740450",
-      "widget": "example",
-      "visibleIf": {
-        "lora_file": [
-          "advokat_aesthetic10k.safetensors"
-        ]
-      }
     },
     "xlabs_anime": {
       "type": "string",
