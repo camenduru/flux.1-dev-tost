@@ -1851,6 +1851,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666574/anime-lora-flux?modelVersionId=745978",
+      "trigger": "anime style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -1865,6 +1866,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666561/art-lora-flux?modelVersionId=745962",
+      "trigger": "art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -1879,6 +1881,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666539/disney-lora-flux?modelVersionId=745940",
+      "trigger": "disney style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -1921,6 +1924,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666550/scenery-lora-flux?modelVersionId=745950",
+      "trigger": "scenery style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -1935,6 +1939,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d2745a6-ab0c-4833-af18-9fe973d04b6a/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd955b66-a118-4583-9058-207194dd3e57/width=450",
       "model": "https://civitai.com/models/637360?modelVersionId=706528",
+      "trigger": "frstingln illustration",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -1977,6 +1982,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7b28186e-db5c-4940-9ca5-857e6d68d698/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a97818e-7527-4882-aac4-db6662349804/width=450",
       "model": "https://civitai.com/models/672365/anime-screencap-style-flux-pony?modelVersionId=752689",
+      "trigger": "anime screencap, retro anime style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2019,6 +2025,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1b416dd8-5e7a-4edf-b463-ce4dbf01be8a/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b3bfd137-51d4-486f-ab62-633e3456fa53/width=450",
       "model": "https://civitai.com/models/707261/automotive-scenic?modelVersionId=791095",
+      "trigger": "Automotive Scenic",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2033,6 +2040,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9be87c7-d90b-4b4d-8cf1-8223640a4286/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f35d87cf-c99a-4582-89b1-1173a13d0894/width=450",
       "model": "https://civitai.com/models/672328/aziib-pixel-style?modelVersionId=752643",
+      "trigger": "style of aziib_pixel",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2075,6 +2083,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62c9d78b-f628-4745-b5a0-9845bee8f830/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/467bb006-bdca-4b67-abcd-5511868bf3c5/width=450",
       "model": "https://civitai.com/models/698765/broken-age-style-flux?modelVersionId=781883",
+      "trigger": "broken age",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2089,6 +2098,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/655335/broken-brawl-stars-characters-for-flux1-dev?modelVersionId=733174",
+      "trigger": "BrawlStars character",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2103,6 +2113,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99503fab-9661-4921-8316-4570ddfd2b11/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d1de7e9-2647-48f5-9000-068ec72c87b2/width=450",
       "model": "https://civitai.com/models/668089/brutalist?modelVersionId=759793",
+      "trigger": "brutalist",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2173,6 +2184,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a9ac7ab9-81fa-442f-a75f-d2485313c592/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd81c6e3-7490-4da9-83b0-60e195ce72ce/width=450",
       "model": "https://civitai.com/models/701102/chrotoart-style-lora?modelVersionId=784465",
+      "trigger": "chrotoart",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2201,6 +2213,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/626c7a52-68e9-497e-9ede-ebf24c9bc8fc/width=450",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/661336/clave-style?modelVersionId=740074",
+      "trigger": "Clave style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2215,6 +2228,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90cbc0d4-17e6-40fa-beeb-94c05c7c2b04/width=450",
       "image4": "https://fakeimg.pl/450x600/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/695774/claymation-flux1-d?modelVersionId=778613",
+      "trigger": "claymation, claymation animation of",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2243,6 +2257,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f104b735-f01c-44df-b40a-31860487f317/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c563725b-6c26-41aa-9217-cf2c620db551/width=450",
       "model": "https://civitai.com/models/726332/cowboy-bebop-style?modelVersionId=812182",
+      "trigger": "bebop_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2285,6 +2300,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb4a7969-b558-4ca5-8688-483999e0e502/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71c6290a-8eb0-495f-a2b9-42c126a93fb7/width=450",
       "model": "https://civitai.com/models/128568/cyberpunk-anime-style?modelVersionId=747534",
+      "trigger": "anime, cyberpunk",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2299,6 +2315,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b3f19ea7-0500-4bca-aeac-3c95ad3da350/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90c309c2-68bf-4485-b0bf-4bbc5a24c0a4/width=450",
       "model": "https://civitai.com/models/707865/deathburger?modelVersionId=791767",
+      "trigger": "deathburger_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2327,6 +2344,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5821fff0-7b48-47e6-8ca1-c0a121b641c7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1a355cd-cdff-41cb-a8a1-18c0b0e0aaf6/width=450",
       "model": "https://civitai.com/models/696877/donm-one-linesimple-drawing-flux?modelVersionId=779836",
+      "trigger": "one line drawing",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2341,6 +2359,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82844857-375b-40d3-bfc8-ce6722670b87/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65e6fb40-1497-4673-9b09-84467e8fd80a/width=450",
       "model": "https://civitai.com/models/393812/donm-sound-of-music-fluxsdxlpony?modelVersionId=813609",
+      "trigger": "digital illustration",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2411,6 +2430,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/105ceb33-7335-4134-accb-f28afa014c7c/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2513e033-d479-44cf-9eb7-65de2e83ea9e/width=450",
       "model": "https://civitai.com/models/666619/flat-illustration-character-illustrations-flat-and-minimal-style-flux?modelVersionId=746037",
+      "trigger": "Juaner_illustration",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2425,6 +2445,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76698e72-5da9-4492-bfe3-22f51063763d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8220bcf9-3545-4f22-9a63-b9558c77423f/width=450",
       "model": "https://civitai.com/models/712067/flux-lora-3d-cartoon-lora?modelVersionId=796410",
+      "trigger": "touxiang",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2439,6 +2460,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/679705/flux-retro-disney?modelVersionId=760824",
+      "trigger": "egdisney",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2495,6 +2517,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8d19776-316c-4fab-bd3c-f4c2ea7ae646/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b27843ab-1b3e-4567-85ff-aa2e78112219/width=450",
       "model": "https://civitai.com/models/563588/fursuit-lora?modelVersionId=734944",
+      "trigger": "fursuit, fluffy body, furry costume, furry",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2509,6 +2532,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e213e2c6-f80a-4eba-bc64-bbb7c2103501/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/587715ce-040b-4d98-9882-7c3bca63b787/width=450",
       "model": "https://civitai.com/models/668799/game-assets-cartoon-style-3d-isometric-background-assets-for-small-games-flux?modelVersionId=748705",
+      "trigger": "Juaner_game",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2523,6 +2547,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1eb27026-f9eb-4395-8cd6-b080f3588a84/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5644b7a0-5e1d-43a2-a562-387fbfcb099d/width=450",
       "model": "https://civitai.com/models/523485/ghibli-kikilapetitesorciere-style-flux-and-sdxl?modelVersionId=732778",
+      "trigger": "KikiLaPetiteSorciere style image",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2537,6 +2562,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11fac9d1-c972-4b84-b548-35822f35ea20/width=450",
       "image4": "https://fakeimg.pl/450x658/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/721057/ghost-in-shell-1995-retro-flux-pony?modelVersionId=806273",
+      "trigger": "ghostshell, retrostyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2565,6 +2591,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89cd4166-26fc-49fa-ae65-552f07fb7efc/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f052857-e653-478c-ace3-28ffef2f4170/width=450",
       "model": "https://civitai.com/models/627662/glass-shard-style-fluxpony?modelVersionId=784278",
+      "trigger": "glass shard",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2579,6 +2606,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5338ca7-8024-41d2-bc01-99c0962ff5ba/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a87f539-26c2-448c-bd64-025ec5f8995e/width=450",
       "model": "https://civitai.com/models/714513/glimmerkin-style-flux-cute-lora?modelVersionId=799061",
+      "trigger": "ZanyEyesStyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2607,6 +2635,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/267dcfeb-6261-43d2-aa2c-7df0c5a8b321/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1da2391d-59f4-4c0c-bf58-933d74c2fc29/width=450",
       "model": "https://civitai.com/models/650406/gudarzimoderncartoonflux?modelVersionId=727681",
+      "trigger": "Modern Cartoon",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2621,6 +2650,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/679615/holographic-test?modelVersionId=760721",
+      "trigger": "holographic, wire form CAD",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2649,6 +2679,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad747a79-4775-462a-aa40-b3529f935af5/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47f3827c-14c9-431c-9c56-2175e363c8e3/width=450",
       "model": "https://civitai.com/models/685024/invader-zim-flux?modelVersionId=766689",
+      "trigger": "invader_zim_style,",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2663,6 +2694,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b7e3083-9e8c-49ae-88a0-7ea9bc95f1bc/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c17ecd16-d7b6-4ccd-9995-c073dadd22f4/width=450",
       "model": "https://civitai.com/models/720442/isometrica-flux?modelVersionId=805591",
+      "trigger": "isometric",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2691,6 +2723,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e148e42-ed3a-4903-ae7d-1623b96bac18/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4806b454-d8c6-438d-a8c0-eb141223a697/width=450",
       "model": "https://civitai.com/models/672535/junji-ito-style-f1d?modelVersionId=752866",
+      "trigger": "jitostyle, monochrome",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2719,6 +2752,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b74ed022-dc63-4f6e-ad9e-a7a7970f6162/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/079d6074-e766-4666-9c3a-04bdc3815b3e/width=450",
       "model": "https://civitai.com/models/686162/light-painting-flux?modelVersionId=767951",
+      "trigger": "lightPainting",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2733,6 +2767,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/64d280c1-50ef-4a9f-8d3a-c4fa3ffc4696/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7ea850a4-738b-47cd-9419-384a65f1d3fd/width=450",
       "model": "https://civitai.com/models/695964/ligne-claire-clear-line-style-lora-or-flux1?modelVersionId=778815",
+      "trigger": "ligne_claire",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2789,6 +2824,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/934cd663-89e8-4d47-aaa7-fda61c2e0ca6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d89505f-a657-4002-ab69-f277e1bdc47b/width=450",
       "model": "https://civitai.com/models/676076/machinart-lora-machinarium-style-flux?modelVersionId=756824",
+      "trigger": "machinart",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2803,6 +2839,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b2f1c81-6c3e-451a-a272-3f86faf2044a/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f52e9a2-4878-4bd0-9274-916ca5c77354/width=450",
       "model": "https://civitai.com/models/598310/microworlds-fluxsdxl?modelVersionId=795960",
+      "trigger": "microworldlora",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2845,6 +2882,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1a7ce40-fb89-4b9a-a537-de9ae8a00c4d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71408bc4-a914-4e71-86eb-25d83075f97d/width=450",
       "model": "https://civitai.com/models/645070/minimalist-line-art-sdxl-pony?modelVersionId=789742",
+      "trigger": "ArsMJStyle, Minimalist Line Art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2887,6 +2925,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d39cfcd-4ad7-485a-a860-f70ef76a66d1/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9deb7b06-6dd6-4097-9cb2-553b32f2dc06/width=450",
       "model": "https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410",
+      "trigger": "naoUrasawa style image",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2901,6 +2940,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c10d479f-d3eb-4ce3-b6c0-32c38a929575/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f700ae92-4054-4cbb-90fe-feb81f2b5ef5/width=450",
       "model": "https://civitai.com/models/669767/old-british-art-style-flux?modelVersionId=749747",
+      "trigger": "British",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2915,6 +2955,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/175f5428-09f8-4c42-8165-74a9e40271d0/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/169a13a3-d5c0-4dd0-ac41-ace78f99bd6e/width=450",
       "model": "https://civitai.com/models/699570/opal-fantasy-flux?modelVersionId=782778",
+      "trigger": "glowing opal fantasy, opalescence, made of opal",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2929,6 +2970,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/988584e0-f381-49f5-a46c-e5ab9f7e1dc7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44b0e645-95f6-41df-b911-f36e7d643390/width=450",
       "model": "https://civitai.com/models/242763/painted-world-or-pony-sdxl-flux?modelVersionId=796163",
+      "trigger": "painted world",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2943,6 +2985,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e227d63b-f788-4fdc-ad7d-79bc7a9fcd66/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52f3c100-e7a6-4c49-8078-a74463a01e66/width=450",
       "model": "https://civitai.com/models/666878/paul-lehugeur?modelVersionId=746341",
+      "trigger": "Style by Paul Lehugeur",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2957,7 +3000,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6575f5ca-042f-4eb4-87bc-97fe6367ff62/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6abc4a5-b8b5-4a68-8b73-322e8e1befde/width=450",
       "model": "https://civitai.com/models/686408/pen-drawings-flux?modelVersionId=768205",
-      "trigger": "'blue pen drawing' or '<color> pen drawing'",
+      "trigger": "blue pen drawing or <color> pen drawing",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -2972,6 +3015,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2e976a8-1a3d-4a57-a305-939d4a6f92a4/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd59e249-ca2d-4b65-ab3e-60e7846df5d0/width=450",
       "model": "https://civitai.com/models/659793/pencil-flux-v1?modelVersionId=738278",
+      "trigger": "pencileg",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3000,6 +3044,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06b16672-0966-4664-b2ea-8fc3f86bf0c7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ca8ae7c-1c1d-42c1-a17c-01342578c300/width=450",
       "model": "https://civitai.com/models/724886/pinkie-lets-crochet-flux?modelVersionId=810573",
+      "trigger": "cr0ch3tcut3styl3, crocheted",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3014,6 +3059,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4029a1bb-68fa-4e4d-8fff-3c3ff607943d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96200dae-00ea-40d9-851b-8d81439f2352/width=450",
       "model": "https://civitai.com/models/720989/pinkie-textured-painting-flux?modelVersionId=806201",
+      "trigger": "t3xtur3dart",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3028,6 +3074,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3bac4420-f74a-4945-96af-865c7b2a3ce3/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d8ba52ac-ff84-4bca-964b-ab49c9773537/width=450",
       "model": "https://civitai.com/models/728479/pinkieclay-reverie-flux?modelVersionId=814629",
+      "trigger": "p1nk1ecl4y, clay art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3042,6 +3089,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f563a33-789d-4bb3-9059-5411c75b84e4/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/433e0583-bfec-4e62-96b4-15ce458c0782/width=450",
       "model": "https://civitai.com/models/683579/pixel-art-illustrations-flux?modelVersionId=765098",
+      "trigger": "pixel art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3070,6 +3118,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d8bd810-1521-4fc0-a831-0c21c332cec6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1b4b34a9-dc4e-409f-a5c4-bc25d5283421/width=450",
       "model": "https://civitai.com/models/721232/polaroid-flux1-lora?modelVersionId=806465",
+      "trigger": "pol4roid_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3126,6 +3175,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b8a4638f-8bde-4ebf-b1cc-31031fa5623b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb7d4f9e-6e42-4446-8bb7-ef063c22c442/width=450",
       "model": "https://civitai.com/models/666863/roger-dean-style-for-flux?modelVersionId=746324",
+      "trigger": "roger dean style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3140,6 +3190,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e956d170-f69d-4c50-bc9c-3f4280b505ce/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84c4a604-5e57-4020-acda-63ac47db8445/width=450",
       "model": "https://civitai.com/models/706372/sailor-moon-esque-retro-anime-style-lora-flux?modelVersionId=790129",
+      "trigger": "anime",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3154,6 +3205,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47d5f9f2-73c3-471c-bd85-ed43b1ce0832/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8fcbe02-0f07-41fe-8d35-b294aebae931/width=450",
       "model": "https://civitai.com/models/674741/sculpture?modelVersionId=755308",
+      "trigger": "Statue, Flower, tree, red, shells, Outdoors",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3238,6 +3290,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5204dda4-6f86-45c1-be3f-a0b4b4cd6814/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17166721-101c-420e-b49b-222662333204/width=450",
       "model": "https://civitai.com/models/729648/sketchy-anime-style?modelVersionId=815915",
+      "trigger": "unfinished sketch, sketchy, line art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3252,6 +3305,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd8b5bf8-296c-4aa7-8ad1-9d4a315a8509/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97daa243-1426-4d82-a952-242390e78dbf/width=450",
       "model": "https://civitai.com/models/672751/snoo?modelVersionId=753098",
+      "trigger": "*snoo*",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3294,6 +3348,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/57784d76-75c7-4c34-9097-de45511ebe72/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7693573d-4768-4efc-b847-32cee3ec89a3/width=450",
       "model": "https://civitai.com/models/706465/spongebob-text-time-card-lora-flux?modelVersionId=790224",
+      "trigger": "aidmaSpongebobText, text:\"YOUR TEXT\"",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3308,6 +3363,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb40c419-f701-4b4e-bd66-ae7ec1a0b7f7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83b46769-6247-4911-9038-ff919c3059a9/width=450",
       "model": "https://civitai.com/models/671698/steampunk-apparel-for-flux?modelVersionId=751959",
+      "trigger": "Steampunk Apparel",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3350,6 +3406,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/58d0ee32-5c78-4237-b882-13841f46e3ae/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eccc2981-a60b-4e5b-b52c-5f3280050dea/width=450",
       "model": "https://civitai.com/models/678853/sxz-dark-fantasy-flux?modelVersionId=759880",
+      "trigger": "drkfnts style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3364,6 +3421,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75ee3fa2-d200-4441-8d50-fa4ef72fde05/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35c1fc10-1df5-4f60-bbcf-6b8cdca33308/width=450",
       "model": "https://civitai.com/models/664689/sxz-ps1-graphics-flux?modelVersionId=743865",
+      "trigger": "ps1 screenshot, lowpoly, posterization",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3392,6 +3450,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5209d5e0-3dec-42f1-bc2a-96b63efee558/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14fb8dc8-55f8-4c67-a3bb-2df8b2cdf7f1/width=450",
       "model": "https://civitai.com/models/719196/vatoko-hearts-v1-flux?modelVersionId=804201",
+      "trigger": "hearts, made of hearts",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3462,6 +3521,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4b49faf-e738-4171-af46-4789abe937eb/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/005d8854-d632-44d5-89a4-94724718a69e/width=450",
       "model": "https://civitai.com/models/611764/world-of-doodle-sdxl-pony-flux?modelVersionId=754514",
+      "trigger": "ArsWorld, Doodle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3476,6 +3536,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f4dd60b-5070-4fee-8d24-78eb050c0757/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6cde3d50-44e2-4a5c-9d71-691debba081d/width=450",
       "model": "https://civitai.com/models/712031/zhongfenghuastyleflux-lora-or-flux-lora?modelVersionId=796377",
+      "trigger": "zhongfenghuaStyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3490,6 +3551,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2ed2142-9340-4867-86d4-7cb10d21a69c/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a199bdd8-d089-468b-8e58-c6145104e3e8/width=450",
       "model": "https://civitai.com/models/304097/commodore-64-style-pixel-art?modelVersionId=804983",
+      "trigger": "c64style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3546,6 +3608,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/369eb994-b9b0-4f47-92e8-274f7132c43e/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1da343ef-d0c8-441f-9d26-0f797fcbedca/width=450",
       "model": "https://civitai.com/models/706762/disney-animated-style-lora-flux1-dev?modelVersionId=790552",
+      "trigger": "This is a digital illustration from a Disney animated film., The overall style is typical of the classic Disney animation style from the mid-20th century.",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3560,6 +3623,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a4a40a8-79ed-4d25-bab8-5d9ebd790468/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ee9dd41-e464-4571-9865-407166b1e91e/width=450",
       "model": "https://civitai.com/models/678830/envy-flux-abstract-background-01?modelVersionId=759851",
+      "trigger": "abstract",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3574,6 +3638,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a7a7df3-b2d2-4ce6-be58-056d3ebab2c7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c743347-16db-4ab0-8931-ab7fe669778d/width=450",
       "model": "https://civitai.com/models/692162/envy-flux-character-concept-01?modelVersionId=774619",
+      "trigger": "character concept art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3588,6 +3653,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bf6c959c-4167-49ba-832c-470e7130abc7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44d49861-7b8c-403c-b239-5522ff7c49cf/width=450",
       "model": "https://civitai.com/models/663056/envy-flux-classic-02?modelVersionId=743101",
+      "trigger": "anime style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3602,6 +3668,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1b1c4053-dcd6-4482-904b-e8b8732c6078/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35ba8fb9-2b9c-49b9-a52b-c67b7e0bf9d3/width=450",
       "model": "https://civitai.com/models/681851/envy-flux-kawaii-sticker-01?modelVersionId=763167",
+      "trigger": "chibi kawaii sticker",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3616,6 +3683,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/972bda14-4497-4dc7-ae3d-f3311f98200b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c225926b-ae07-4401-b0e9-23c5d57ccf9d/width=450",
       "model": "https://civitai.com/models/695983/envy-flux-liminal-01?modelVersionId=778837",
+      "trigger": "liminal",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3630,6 +3698,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28846141-6dba-4005-aac5-f733c7c2dbff/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/461b44b7-8f5c-410b-8e43-bdfd42b70354/width=450",
       "model": "https://civitai.com/models/657552/envy-flux-vintage-speedpaint-01?modelVersionId=735712",
+      "trigger": "vintage speedpaint",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3658,6 +3727,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/506499ec-3252-41e0-8d6a-492f3b6fb91f/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/078d6b9f-149d-4e86-9048-51424fe5f516/width=450",
       "model": "https://civitai.com/models/433138/ghibli-style-flux-and-pdxl?modelVersionId=755852",
+      "trigger": "ghiblistyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3672,6 +3742,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08aedbf0-dc7f-42ba-b940-03b6129e98f1/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e5196bae-69b7-4b59-94a3-06274adb9c58/width=450",
       "model": "https://civitai.com/models/681332/hard-edge-pixel-art?modelVersionId=762594",
+      "trigger": "pixel art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3700,6 +3771,7 @@
       "image3": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/708631/itojunji-lora?modelVersionId=792617",
+      "trigger": "itojunji",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3714,6 +3786,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/084ffcd1-ba98-48d7-a6e6-ee7f666ce345/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94155856-69b8-4296-8d9d-ed24febdffc0/width=450",
       "model": "https://civitai.com/models/649035/minimalist-anime-flux?modelVersionId=726135",
+      "trigger": "minimal1st, faceless, flat color, vector art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3728,6 +3801,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a1aff2d-81a9-4ac2-8c0d-85dca74d7983/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eddfd0ed-32ff-4144-909b-784ea706da11/width=450",
       "model": "https://civitai.com/models/712297/flux-lora-balaenoptera-style?modelVersionId=796676",
+      "trigger": "by balaenoptera style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3742,6 +3816,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbc42bcd-2d23-4eb2-ab91-0d07fd5c172d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47876af2-1744-4aa3-a21a-aee9fd9e1be2/width=450",
       "model": "https://civitai.com/models/711818/team-fortress-2-style-f1d?modelVersionId=796155",
+      "trigger": "tf2style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3756,6 +3831,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7ac43f8d-b336-4083-89c8-42cd35703771/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cbf814af-f121-4f3c-aabb-1805c24681ee/width=450",
       "model": "https://civitai.com/models/697686/neverhood-claymation-style-f1d?modelVersionId=780719",
+      "trigger": "neverhoodstyle, claymation",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3770,6 +3846,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35d8080e-3ebb-42d3-a777-8462e44ceada/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/338ce767-c6f6-4579-8fc5-6cfa5293a172/width=450",
       "model": "https://civitai.com/models/720870/madworld-wii-style-f1d?modelVersionId=806064",
+      "trigger": "madworldstyle, monochrome, blood",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3784,6 +3861,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ab1db3f-a385-410f-98c1-3511409a2e80/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/217edaf2-6869-402f-9bdb-8215d9855c2d/width=450",
       "model": "https://civitai.com/models/676200/minimalism-style?modelVersionId=756950",
+      "trigger": "minimalism style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3798,6 +3876,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a41efa30-d996-4142-9cac-2d8715162af5/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36c7fc58-9c70-4e31-89c5-f788e2e5f951/width=450",
       "model": "https://civitai.com/models/703166/flux-rosina-wachtmeister-artist-style?modelVersionId=786587",
+      "trigger": "roswac, roswac style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3812,6 +3891,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2edc31ef-5143-42a4-ad35-bbb5ba2a75c7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/64b36ea3-df8f-4558-a944-e1bc8cabaaca/width=450",
       "model": "https://civitai.com/models/453134/franklin-booth-style?modelVersionId=777296",
+      "trigger": "detailed pen-and-ink illustration by franklin booth",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3826,6 +3906,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71448586-4054-49d5-9700-50f876954eb6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/01d2edd2-62ce-44a0-8c7c-de8fef5f5eda/width=450",
       "model": "https://civitai.com/models/686231/vector-art-and-line-art-flux?modelVersionId=768020",
+      "trigger": "v3ctora style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3840,6 +3921,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa1cde08-61e5-4f1d-ad42-9cdab65eb776/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9632dc25-8e24-478d-9392-36694f14b106/width=450",
       "model": "https://civitai.com/models/682092/yogisya-style-flux?modelVersionId=770636",
+      "trigger": "yogisya style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3854,6 +3936,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb400a49-2b3b-445d-990b-1c65b5a90c09/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc5424ed-a5a8-45b6-bdda-4b2192c775d8/width=450",
       "model": "https://civitai.com/models/723677/egg-ricetkgtamago-kake-gohan?modelVersionId=810642",
+      "trigger": "TKG, Tamago gohan, Tamago kake gohan",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3896,6 +3979,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97a89725-0946-4cb2-99cd-7f5530880b70/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3d2cf4c9-13b5-4f5a-bfc2-e7a1abe0c6ad/width=450",
       "model": "https://civitai.com/models/404277/definitive-disney-studios-style-pony-and-flux-by-yeiyeiart?modelVersionId=738866",
+      "trigger": "DisneyStudio, cartoon",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3910,6 +3994,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75f4206a-a744-4138-993c-88f420d5977b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f4955b7-9cd1-4943-bcb0-9988362cc6b2/width=450",
       "model": "https://civitai.com/models/729259/flux-links-awakening-or-f1?modelVersionId=815496",
+      "trigger": "zhimengdao, 3D, blender",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3924,6 +4009,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c22e5a61-7e0a-4ad4-8a0f-a799ab3dd4c8/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eee10278-2626-46aa-86ce-455e874e1018/width=450",
       "model": "https://civitai.com/models/689643/flux-pokegirls-pokemon?modelVersionId=771839",
+      "trigger": "lillie_default, akari_default, dawn_default, hilda_default, lana_default, marnie_default, may_default, misty_default, rosa_default, serena_default",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3938,6 +4024,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4a9031a-8397-4022-bb81-8378eaad4191/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f7744a3-ef26-434c-8c8b-055bd3b46846/width=450",
       "model": "https://civitai.com/models/668765/hh-archframesflux?modelVersionId=748666",
+      "trigger": "frames",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3952,6 +4039,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a9e9613-9dd7-485d-9aa4-407b57c6cbaf/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f97d235c-100b-438d-90e8-ecfd32e58503/width=450",
       "model": "https://civitai.com/models/668750/hh-archhorizontalflux?modelVersionId=748648",
+      "trigger": "horizontal",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3966,6 +4054,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/152b25ad-0356-4fab-a1e9-76db35ac0fc0/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/85e37634-83f2-4655-8b06-40c0109da53e/width=450",
       "model": "https://civitai.com/models/668784/hh-archstackedflux?modelVersionId=748688",
+      "trigger": "stacked",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -3980,6 +4069,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed450e93-7fa9-4c41-867f-ecbd45b8a6f1/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2fe3eae1-7884-4a40-8b8c-d540f8a97a13/width=450",
       "model": "https://civitai.com/models/668800/hh-archvoidflux?modelVersionId=748704",
+      "trigger": "void",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4008,6 +4098,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb232160-a816-4721-bb24-5f17d20924e2/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0da87fd-e67d-4581-ac86-b37933673772/width=450",
       "model": "https://civitai.com/models/718739/origami?modelVersionId=803692",
+      "trigger": "origami",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4036,6 +4127,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d04fdadf-90c0-4642-9f89-2ffb62fd23ef/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8dbe572a-51c4-4b12-8117-6df16081f1e4/width=450",
       "model": "https://civitai.com/models/702282/the-pulp-session?modelVersionId=785748",
+      "trigger": "pulp cartoon",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4050,6 +4142,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eca6a76f-90fa-42e3-98c8-d90278f436be/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6eee0bb4-cbc1-4f2c-98d8-f1b7d67cdc2b/width=450",
       "model": "https://civitai.com/models/719272/wool-feltchibi-cute-cartoon-doll-character-scene-design-flux?modelVersionId=804285",
+      "trigger": "Juaner_wool",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4092,6 +4185,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f64bcf5b-d76b-4af2-82d0-d99868babfea/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/80206a45-2b1e-4ad0-9224-f808c72bf78d/width=450",
       "model": "https://civitai.com/models/686138/rubbercore-1920s-cartoon-style?modelVersionId=767927",
+      "trigger": "RU883R",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4106,6 +4200,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7a73e730-df39-44d9-b4de-b0137701fa01/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b411fba-6206-4c6d-b62d-e6d989a20a98/width=450",
       "model": "https://civitai.com/models/692493/frostedanimatedstyle-flux-paseer?modelVersionId=774990",
+      "trigger": "msdh, frosted animation",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4120,6 +4215,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d39a72f8-0c36-4011-97b9-a91ce6c77f76/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/850e7688-03c5-48c7-a2c0-88804b1be7d9/width=450",
       "model": "https://civitai.com/models/690108/voxel-art?modelVersionId=772383",
+      "trigger": "Voxel art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4134,6 +4230,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79f86ed1-46ee-4a69-836b-dc1ec147b3f6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09c91e40-0473-4e81-ba6d-7d0cb5d3e3b7/width=450",
       "model": "https://civitai.com/models/729953/disgaea-7-style-f1d?modelVersionId=816265",
+      "trigger": "disgaea7style, anime",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4148,6 +4245,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/506072d5-1100-4c9e-ac0f-8c6879093393/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09435545-a5a3-4dbe-9554-998d36fb074b/width=450",
       "model": "https://civitai.com/models/643476/pixelenhence-flux-paseer?modelVersionId=719778",
+      "trigger": "pixel, pixel art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4162,6 +4260,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d04b1632-022a-426f-aae6-187fddd89428/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5427d207-d1c2-48a2-858b-8987461e11a2/width=450",
       "model": "https://civitai.com/models/698585/transgender-hair?modelVersionId=792408",
+      "trigger": "TRANSGENDER HAIR, TRANSGENDER OUTFIT, TRANSGENDER UNDERWARE, TRANSGENDER UMBRELLA",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4176,6 +4275,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5756423b-f5ea-4fcf-a157-c25c66355fb6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e867474-0a9f-4ad0-9723-d79c5679d315/width=450",
       "model": "https://civitai.com/models/689478/3dflux-style?modelVersionId=771650",
+      "trigger": "3D01S, kawaii, anime",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4190,6 +4290,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc6212f1-eb95-4c69-a483-d390cae2e959/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df0ad741-a367-4130-a3b8-715554009036/width=450",
       "model": "https://civitai.com/models/118910/paseer-sdxlflux-microhouse?modelVersionId=780969",
+      "trigger": "microarchitecture, abstract from above",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4204,6 +4305,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2cf9ccde-28cc-41aa-beda-891df17a2f45/width=450",
       "image4": "https://fakeimg.pl/450x658/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/683222/spirited-away-ghibli-style-for-flux?modelVersionId=764708",
+      "trigger": "A scene from the animated Studio Ghibli movie Spirited Away",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4218,6 +4320,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/112ba086-24b0-43c7-8d25-fbd25e77d1de/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cefe3296-9d37-470c-a97e-64c84cc51789/width=450",
       "model": "https://civitai.com/models/696716/mouse-guard-style-flux?modelVersionId=779652",
+      "trigger": "mouseguard mouse",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4232,6 +4335,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/68e012f1-6bca-4fbd-b357-df09fc3c02a1/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b2e99d9-cf34-48b9-af85-d666ff1351cf/width=450",
       "model": "https://civitai.com/models/684290/taroo-a-tarot-card-lora-flux?modelVersionId=765900",
+      "trigger": "black and white, tarot card, taroo",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4260,6 +4364,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d7b434f-d98d-415a-a707-20c8794d75fb/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/01cdbabb-fd76-4afa-b3a2-173828f4cff9/width=450",
       "model": "https://civitai.com/models/689231/3d-chibi-toyair-dry-clay-style-flux?modelVersionId=771373",
+      "trigger": "Juaner_clay",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4288,6 +4393,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af9649ee-4ae3-4c27-8f08-b05f2b2bb97f/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/331ff9d1-f246-496c-abec-a2e7f7425406/width=450",
       "model": "https://civitai.com/models/677718/cinematic-lego?modelVersionId=758624",
+      "trigger": "lego",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4302,6 +4408,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a439cd16-7b69-4af7-9022-9aaef65a96f6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7e048a02-a1e8-471d-8323-06a67aef7b49/width=450",
       "model": "https://civitai.com/models/655712/darius-kawasaki-painting-style-flux1-d-lora?modelVersionId=748469",
+      "trigger": "painting, by darius kawasaki",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4344,6 +4451,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/23e7ad03-ab74-4c8a-8fca-cd307b53de7b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/180d6713-464d-4faf-a39b-e1e6d3ac15b1/width=450",
       "model": "https://civitai.com/models/703046/game-assetsdont-starve-style-character-design-game-scene-design-flux?modelVersionId=786460",
+      "trigger": "Juaner_dsstyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4372,6 +4480,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4828c225-d815-4bfb-b50d-8e6bb0e4dfae/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c30484e-acf8-4137-a382-bfbeee5cc132/width=450",
       "model": "https://civitai.com/models/681642/illustrationscute-cartoon-cute-manga-flux?modelVersionId=762939",
+      "trigger": "Juaner_cartoon",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4386,6 +4495,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8870136c-ff6c-46fa-acaa-ad1270fea360/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06d0fecb-9e42-4612-a21b-5eecaf287726/width=450",
       "model": "https://civitai.com/models/701817/serafleur-or-anime-or-artstyle-lora?modelVersionId=785239",
+      "trigger": "serafleur art style,",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4428,6 +4538,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51c4ab5d-cc6b-4a50-91a9-f308e43aaf60/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce788c64-62f1-4bc1-9252-f4f58823ae37/width=450",
       "model": "https://civitai.com/models/648623/ascii-art-flux?modelVersionId=725667",
+      "trigger": "ASCII art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4456,6 +4567,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fc3bc09f-e556-4cc8-a7f9-69aea265d21c/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74527049-7626-441b-81b5-fd9fb93999d5/width=450",
       "model": "https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora?modelVersionId=810340",
+      "trigger": "photo",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4470,6 +4582,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3e99d42-2453-4fde-9d9b-ab5a1d7d0168/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfacf5bb-54b0-44ca-ae1c-7dd63af986f4/width=450",
       "model": "https://civitai.com/models/695271/childparkai-loraarchitecture-morph?modelVersionId=778071",
+      "trigger": "childpark",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4498,6 +4611,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a52b9c6-6b66-42ad-8c22-4b64193cbdc2/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3d4057ae-4d7b-409f-a4e6-2e202a744925/width=450",
       "model": "https://civitai.com/models/673203/dark-sector-style?modelVersionId=753606",
+      "trigger": "darksector_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4512,6 +4626,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ef8c262e-bfe5-4cd6-96a9-8d91e3af3d3e/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/407c96d9-b0a0-4a69-9cfc-9ab0821d19b7/width=450",
       "model": "https://civitai.com/models/663582/dreamy-floating-flux-lora?modelVersionId=742633",
+      "trigger": "TOK",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4526,6 +4641,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd4dfbb4-d7c1-412f-98bd-f5111c0b263b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b342cac-fe97-4bf3-bb60-4785b865e924/width=450",
       "model": "https://civitai.com/models/668651/eldritch-parchment-art-or-for-flux1-dev?modelVersionId=748533",
+      "trigger": "parchment",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4540,6 +4656,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c0d50d8-007a-496e-bb3e-dc5caa11222f/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae929b07-56f6-49b5-9fe2-2fe44aa1be66/width=450",
       "model": "https://civitai.com/models/682050/flux-bing-anime-lucid-aiai-b1ng-lucid-lora?modelVersionId=795006",
+      "trigger": "aiai-B1ngLucid",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4582,6 +4699,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfa60282-5441-454c-a0db-6dd4ee9b838e/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b4b1223-2763-4d6e-9078-367969310c49/width=450",
       "model": "https://civitai.com/models/667585/flux-eva-aiai-3v4-lora?modelVersionId=809548",
+      "trigger": "aiai-3v4",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4596,6 +4714,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6183c2d-1f00-4726-91c9-6f4e3488785d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f5d797fe-f0df-46ae-9b85-59f1ddfbeee1/width=450",
       "model": "https://civitai.com/models/697676/flux-flat-anime-lora?modelVersionId=780723",
+      "trigger": "flaani",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4624,6 +4743,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de2c7082-3f75-4af2-99ea-380ad5d9403f/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27f5a55c-974d-4d8b-8d5b-80ab1f8649e5/width=450",
       "model": "https://civitai.com/models/657321/flux-lora-minimalist-line-style?modelVersionId=735459",
+      "trigger": "minimalist_line_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4652,6 +4772,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/104567e3-fbe7-4435-93c1-924883cc275e/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5d2dd3de-9c1c-48d2-9aa1-53f5cbc6024e/width=450",
       "model": "https://civitai.com/models/696570/flux-plastic3d?modelVersionId=779503",
+      "trigger": "plastic3d style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4666,6 +4787,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9d72c08-2bdb-44cf-b281-6039dea037f9/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a366fa9b-f928-4d92-a408-cb869528b7dd/width=450",
       "model": "https://civitai.com/models/656387/flux-simple-line-drawing?modelVersionId=734382",
+      "trigger": "simple line drawing",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4680,6 +4802,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c549bad0-cfcd-4ec1-a813-8f1b6f73e699/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0372eada-2687-4400-9318-37fa045a6d0d/width=450",
       "model": "https://civitai.com/models/687204/flux1-lora-day-of-the-tentacle-remastered?modelVersionId=769123",
+      "trigger": "DOTTRMSTR style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4694,6 +4817,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b741cf9e-fdfd-4ba1-b8f4-cb78e2ccb19b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1951c8a1-5e07-4128-9440-8e0317bd0ec0/width=450",
       "model": "https://civitai.com/models/693759/flux1-lora-return-to-monkey-island?modelVersionId=776404",
+      "trigger": "RTMI",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4708,6 +4832,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/719b93a0-a336-459e-90b0-4f958ff433d4/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7e4121b4-07d4-4b5e-869b-222faf65d7d9/width=450",
       "model": "https://civitai.com/models/687258/flux1-lora-sam-and-max-hit-the-road?modelVersionId=769182",
+      "trigger": "SAMHTR style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4722,6 +4847,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19f1d930-e105-4111-b2a7-a6e03c4093a6/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be558d3e-df4c-42df-9f8a-6b8a87b0cc51/width=450",
       "model": "https://civitai.com/models/680852/formfinder-flux?modelVersionId=762084",
+      "trigger": "Architecture photography",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4736,6 +4862,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2e0705f-ee30-4b06-94e2-fe735a24b9d9/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/345e8ed8-f168-4572-9726-5de3bfe22d99/width=450",
       "model": "https://civitai.com/models/722040/ishincutewoolstyleflux?modelVersionId=807352",
+      "trigger": "cutewool_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4778,6 +4905,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f21a1da-f3ae-4847-9e70-66f3ff1bef61/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6be94e7-6f71-4d4f-81ae-dfdc0652f19b/width=450",
       "model": "https://civitai.com/models/275579/ktv-private-room?modelVersionId=778184",
+      "trigger": "private club",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4792,6 +4920,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72393c9d-c35e-44d3-8f0a-ef1fe147718a/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/23a7faf1-21cd-410a-8aef-15f2b695c029/width=450",
       "model": "https://civitai.com/models/684145/marksketdra-flux1d-sketch-marker-style?modelVersionId=765734",
+      "trigger": "MarkSketDra, colored marker sketch of, industrial design",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4820,6 +4949,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c090a6a4-ed71-475a-ada3-b2b1c730e727/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d813a38-d814-4538-ae82-5835989c6336/width=450",
       "model": "https://civitai.com/models/689318/pixel-art-style?modelVersionId=771472",
+      "trigger": "pixel_art_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4848,6 +4978,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c78f894-548a-4c51-ac96-639edd811bab/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/58ca8a1e-57ce-43ef-b944-a82dab3195ee/width=450",
       "model": "https://civitai.com/models/673335/retro-comic-style-betty-and-me?modelVersionId=753754",
+      "trigger": "oodcomi",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4862,6 +4993,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/467106c6-5bc7-4445-9fce-87ee19d4aaa4/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/91da64d0-94a6-478b-a055-46636e894673/width=450",
       "model": "https://civitai.com/models/667703/scavengers-reign-flux?modelVersionId=747404",
+      "trigger": "Flat Art",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4890,6 +5022,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/059ce17f-18c8-438b-8751-cf7eaa89947e/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a6eaa3c-e63c-4795-8aab-36e76c8ea487/width=450",
       "model": "https://civitai.com/models/645447/simplistic-embroidery-flux?modelVersionId=722056",
+      "trigger": "gray_embroider of a",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4904,6 +5037,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60671ee1-63ef-4493-8276-33441c4b4a06/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4465af51-10c6-421d-935e-6a2a8db849fb/width=450",
       "model": "https://civitai.com/models/670105/sonny-anime-flux?modelVersionId=750128",
+      "trigger": "nm22 style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4932,6 +5066,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44ecf68a-156c-4674-8406-87a5fc4c3517/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0cd32e5-b8ea-4876-ad9c-e218f09488ea/width=450",
       "model": "https://civitai.com/models/682845/syd-mead-style-concept-art-and-creative-visions?modelVersionId=764288",
+      "trigger": "concept art by syd mead, retro-futuristic",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4946,6 +5081,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3500bf05-e6cc-422d-ae5b-f41cab8d7527/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35008834-59d0-4b9c-a693-7f0ab1623819/width=450",
       "model": "https://civitai.com/models/210095/the-wizards-vintage-comic-book-cover?modelVersionId=744013",
+      "trigger": "vintage comic book cover, 1950s pulp art style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -4960,6 +5096,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53df15c6-d00e-42e3-a6f1-e51bcc553d18/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61768aca-e2a5-41f4-9698-50d561d0438b/width=450",
       "model": "https://civitai.com/models/696962/watercolor-archslra?modelVersionId=779939",
+      "trigger": "ARCHSLRA",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5002,6 +5139,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/70539e98-36dc-44e4-a9cc-09819a69fd3b/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83b20ca6-8c4a-4183-8057-89cdf18c2aa4/width=450",
       "model": "https://civitai.com/models/440140/jade-pony-paseer?modelVersionId=727856",
+      "trigger": "jade, jade made",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5030,6 +5168,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2eed6fdf-d9e4-4396-a620-087c9e024cc9/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f69cd07c-f47f-436d-a4f7-6b0055897e79/width=450",
       "model": "https://civitai.com/models/710652/anythingxl-style-for-flux?modelVersionId=794865",
+      "trigger": "PEX_style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5044,6 +5183,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6dcdeae-8585-46ef-99b0-afae741bb7e0/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5e4c981-020c-4115-89dd-eda605c033b9/width=450",
       "model": "https://civitai.com/models/654226/brutalist-monument-flux?modelVersionId=731931",
+      "trigger": "Brutalist Monument",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5058,6 +5198,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb490ede-f753-4bc5-86ef-fc3143e4b5ef/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6402e66b-a659-43b8-8985-9d7fe5357918/width=450",
       "model": "https://civitai.com/models/684274/comic-illustrationpastel-color-illustrations-people-and-scenes-flux?modelVersionId=765877",
+      "trigger": "Juaner_manga",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5072,6 +5213,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b55ef9e-b23a-4a78-8ac7-06f899fa4053/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/923bbdb8-3129-4190-9322-c78c7e1dd328/width=450",
       "model": "https://civitai.com/models/676027/game-assets-lowpoly-style-3d-background-assets-for-games-flux?modelVersionId=756741",
+      "trigger": "Juaner_lowpoly",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5086,6 +5228,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b96fe798-1bf8-4cc2-b188-c8b7d4f56e59/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/741f2c7d-0050-4ff1-bc08-94edd5663e16/width=450",
       "model": "https://civitai.com/models/701549/game-assetsa-world-made-of-colorful-candy-beads-dense-cluster-phobics-enter-with-caution?modelVersionId=784950",
+      "trigger": "Juaner_cute",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5100,6 +5243,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c4e784f-20ba-45ac-a3c0-b12fa985c08d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1abb406a-7b13-4601-bb66-ce12ef151c2f/width=450",
       "model": "https://civitai.com/models/680964/style-of-alice-provensen-flux-143?modelVersionId=762194",
+      "trigger": "style of Alice Provensen",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5114,6 +5258,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec1c96bf-34ea-4715-9c10-ed35b97f9926/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f7b6411-99c2-45bc-b728-105ed93cb590/width=450",
       "model": "https://civitai.com/models/716793/style-of-john-kenn-mortensen-flux-219?modelVersionId=801569",
+      "trigger": "style of John Kenn Mortensen",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5128,6 +5273,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6287a432-5245-411d-ad50-055aad863916/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddce68f6-f64b-420a-9d51-2dc46883b5ed/width=450",
       "model": "https://civitai.com/models/715296/style-of-mary-fedden-flux-198?modelVersionId=799913",
+      "trigger": "style of Mary Fedden",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5142,6 +5288,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a54d688a-bab4-4001-8a88-8eab73694e62/width=450",
       "image4": "https://fakeimg.pl/450x450/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/700478/style-of-shaun-tan-flux-161?modelVersionId=783774",
+      "trigger": "style of Shaun Tan",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5170,6 +5317,7 @@
       "image3": "https://fakeimg.pl/450x675/282828/eae0d0/?text=%20#.png",
       "image4": "https://fakeimg.pl/450x675/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/704779/flux-gen-5-trainer-sprites?modelVersionId=788326",
+      "trigger": "A pixelart drawing",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5184,6 +5332,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccaa3b53-1a16-414b-8b52-b509a394e33d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d40635dd-ca7f-4b03-85e4-365f93328a54/width=450",
       "model": "https://civitai.com/models/679132/flux-rem-ram-beatrice-emilia-subaru-and-puck-rezero-multi-character?modelVersionId=760199",
+      "trigger": "rem \\(re:zero\\), ram \\(re:zero\\), beatrice \\(re:zero\\), emilia \\(re:zero\\), natsuki subaru, puck \\(re:zero\\)",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5198,6 +5347,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/37cb9e25-2cfc-4fc6-9f75-546137ca6462/width=450",
       "image4": "https://fakeimg.pl/450x750/282828/eae0d0/?text=%20#.png",
       "model": "https://civitai.com/models/666919/pvc-style-model-figure-model-lora?modelVersionId=746404",
+      "trigger": "a 3D rendering of a figurine",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5240,6 +5390,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49502a86-f283-4303-b8d5-9391f33f0bdf/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07fe7d76-e136-45b1-a6bc-5c897447f1e3/width=450",
       "model": "https://civitai.com/models/696050/daubrez-flux?modelVersionId=778925",
+      "trigger": "DB4RZ, DB4RZ style painting",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5254,6 +5405,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f01493e-5427-4092-aa01-84164c02cb1f/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd0f0c75-e1b6-40b3-b2ab-f8c242040199/width=450",
       "model": "https://civitai.com/models/645425/flux-syntheticanime?modelVersionId=722013",
+      "trigger": "1980s anime screengrab, VHS quality,, syntheticanime",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5268,6 +5420,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12e7b0ba-8673-45f1-84f4-13cb4eebc660/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a2caead-6386-461f-b30f-186ad89eb795/width=450",
       "model": "https://civitai.com/models/702901/flux?modelVersionId=786339",
+      "trigger": "xdlx, xdlx style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5282,6 +5435,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82c46fcd-9ba8-4b33-90f9-31588f44542d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14526a97-c637-4a6f-86b2-95901e2c10d0/width=450",
       "model": "https://civitai.com/models/657159/haunted-linework-flux?modelVersionId=735253",
+      "trigger": "hntdlnwrk style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5296,6 +5450,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/db2d06cf-8a34-4010-bb5c-a275e32659fe/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/18dc6118-84e4-4d47-8693-e4c801d465a9/width=450",
       "model": "https://civitai.com/models/701806/len-style-flux?modelVersionId=785227",
+      "trigger": "len style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5310,6 +5465,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f0c20a5-9717-4b58-a67b-4a0bd1bda0b3/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e3025d63-9518-4c3a-8b48-cb0c4cb67b6b/width=450",
       "model": "https://civitai.com/models/690442/linnea-beta?modelVersionId=772733",
+      "trigger": "linnea teal hair",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5324,6 +5480,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/78451a28-8c4c-4331-a317-5f4bf79d59c9/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75baef2d-88fe-426f-aa6a-107f801a59f2/width=450",
       "model": "https://civitai.com/models/665151/old-space-station-artstyle-flux-lora?modelVersionId=744392",
+      "trigger": "ossttn",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5338,6 +5495,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afaf5f35-ed31-49f4-843a-e754875b2f72/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/170970f5-525a-4f59-902a-ec26bd046d08/width=450",
       "model": "https://civitai.com/models/657179/plushy-world-flux?modelVersionId=735275",
+      "trigger": "3dcndylnd style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5352,6 +5510,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1f2d7dd-262a-4368-9dc4-d4a8cc953e14/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c9f2ec9e-6b3e-4ad1-876f-8bfb02cf8736/width=450",
       "model": "https://civitai.com/models/711039/simon-stalenhag-style-flux?modelVersionId=795293",
+      "trigger": "art by Stalenhag",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5366,6 +5525,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/77fcd963-682a-49c4-8c69-f9f2ceb56484/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2366ea4f-1344-4452-9e55-cb4513765acd/width=450",
       "model": "https://civitai.com/models/689849/tarot-dev-flux-lora?modelVersionId=772064",
+      "trigger": "trtcrd, artstyle",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5380,6 +5540,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6bf137ce-7bce-4d3a-b614-c468e714426d/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/db925e79-328f-4772-811a-802806aab079/width=450",
       "model": "https://civitai.com/models/657169/the-point-flux?modelVersionId=735262",
+      "trigger": "pnt style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5394,6 +5555,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bb428c71-32a0-41b0-8509-af23181bc5b0/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97f5bf8b-21f6-498a-8039-380f9bde2bb1/width=450",
       "model": "https://civitai.com/models/721398/mooniverse?modelVersionId=806645",
+      "trigger": "surreal style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5408,6 +5570,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b612aa0f-7ffc-479e-b2b3-6ebf676fc313/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/236370b7-502a-428e-8a0e-cd8eea99ecce/width=450",
       "model": "https://civitai.com/models/715829/3d-e-commerce-flux-lora-or-miniature-cartoon-style?modelVersionId=800495",
+      "trigger": "1qqq",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5422,6 +5585,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6d04461-a7ce-4be8-8fb9-e52d24abf804/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2cb602b1-e0a1-43da-8e25-bf7748511b52/width=450",
       "model": "https://civitai.com/models/733080/e-commerce-high-quality-flux1d-lora?modelVersionId=819772",
+      "trigger": "1qqq, product rendering",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5436,6 +5600,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2c31a08-a4bf-4032-a2b5-cc5f02c8d153/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f4271ef-a073-4213-b0df-9b23ad32073f/width=450",
       "model": "https://civitai.com/models/722531/flux-icon-maker-psiclones-artforge-masterkit?modelVersionId=807889",
+      "trigger": "A illustration of an icon",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5450,6 +5615,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/840d9262-efd3-4cdc-9b79-068adb5e0a78/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e63c1dea-229a-4573-b727-2ea9e27e3290/width=450",
       "model": "https://civitai.com/models/702860/flux-sketch?modelVersionId=786285",
+      "trigger": "sketch",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5464,6 +5630,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/037681f7-5d3a-4b79-b9ad-2e7631dfa305/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f992347a-d67b-40cc-9c82-2131768f95bb/width=450",
       "model": "https://civitai.com/models/712299/fluxlive2d-virtual-avatar-quick-creation-live2d-vroid?modelVersionId=796681",
+      "trigger": "live2d,guijiaoxiansheng,separate hand,separate feet,separate head,full body,solo,white background,simple background,",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5478,6 +5645,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e9289d2-d202-43d1-8ac5-bab347ffb7e3/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c2b8fe4e-bb93-4e45-bc61-c3d11e1f3eb2/width=450",
       "model": "https://civitai.com/models/716810/logo-flux-1d-lora-or-simple-color-style?modelVersionId=801591",
+      "trigger": "1qqq",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5492,6 +5660,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17a58a67-bbb8-4726-b75e-5cbfbee651b7/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a91278c-020a-4a75-a2ad-ce1f9e2b1ef9/width=450",
       "model": "https://civitai.com/models/706293/product-photography-flux-or-soft-light-cosmetics?modelVersionId=790057",
+      "trigger": "1qqq",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5506,6 +5675,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06191f19-6799-459d-afc9-24349b6858e5/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e65cfce-bd6f-4796-ac6b-cc9f05a22ba7/width=450",
       "model": "https://civitai.com/models/719041/tangbohu-wool-kintted-style-flux?modelVersionId=804021",
+      "trigger": "wool kintted",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5520,6 +5690,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/29f4b5e6-f4b4-443f-a403-d990f766fb08/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4eba7e93-7641-4438-93ca-fdd999dff19c/width=450",
       "model": "https://civitai.com/models/665753/illulora-simple-illustration-style?modelVersionId=745084",
+      "trigger": "IlluLORA",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5534,6 +5705,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7f10777-ccb6-4950-ac19-e9c9764bcd63/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a0fc71c-d665-43dd-ab31-deff4bbd30cc/width=450",
       "model": "https://civitai.com/models/653093/koda-diffusion-flux?modelVersionId=730657",
+      "trigger": "flmft style",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5548,6 +5720,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0656d4e5-a038-471c-b659-60db89c30084/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b50f165-bfc0-4839-accd-620b9a9d69ea/width=450",
       "model": "https://civitai.com/models/679914/panther-blade-flux?modelVersionId=761056",
+      "trigger": "PN7BL",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
@@ -5562,6 +5735,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44f6afa6-fedb-41c4-be99-62dd23ffaeba/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0818b292-7d15-4566-bfac-cc52d87f11fa/width=450",
       "model": "https://civitai.com/models/657191/softserve-anime-flux?modelVersionId=735293",
+      "trigger": "sftsrv style illustration",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
