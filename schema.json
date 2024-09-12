@@ -2957,6 +2957,7 @@
       "image3": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6575f5ca-042f-4eb4-87bc-97fe6367ff62/width=450",
       "image4": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6abc4a5-b8b5-4a68-8b73-322e8e1befde/width=450",
       "model": "https://civitai.com/models/686408/pen-drawings-flux?modelVersionId=768205",
+      "trigger": "'blue pen drawing' or '<color> pen drawing'",
       "widget": "example",
       "visibleIf": {
         "lora_file": [
