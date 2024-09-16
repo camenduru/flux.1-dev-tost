@@ -5849,85 +5849,85 @@
           ]
         },
         {
-          "description": "Style of Cathleen Mc Allister",
+          "description": "Style of Cathleen McAllister",
           "enum": [
             "styleofcathleenmcallister"
           ]
         },
         {
-          "description": "Style of Robert Mc Call",
+          "description": "Style of Robert McCall",
           "enum": [
             "styleofrobertmccall"
           ]
         },
         {
-          "description": "Style of Frank Mc Carthy",
+          "description": "Style of Frank McCarthy",
           "enum": [
             "styleoffrankmccarthy"
           ]
         },
         {
-          "description": "Style of Winsor Mc Cay",
+          "description": "Style of Winsor McCay",
           "enum": [
             "styleofwinsormccay"
           ]
         },
         {
-          "description": "Style of Frederick Mc Cubbin",
+          "description": "Style of Frederick McCubbin",
           "enum": [
             "styleoffrederickmccubbin"
           ]
         },
         {
-          "description": "Style of Todd Mc Farlane",
+          "description": "Style of Todd McFarlane",
           "enum": [
             "styleoftoddmcfarlane"
           ]
         },
         {
-          "description": "Style of Barry Mc Gee",
+          "description": "Style of Barry McGee",
           "enum": [
             "styleofbarrymcgee"
           ]
         },
         {
-          "description": "Style of Dave Mc Kean",
+          "description": "Style of Dave McKean",
           "enum": [
             "styleofdavemckean"
           ]
         },
         {
-          "description": "Style of Angus Mc Kie",
+          "description": "Style of Angus McKie",
           "enum": [
             "styleofangusmckie"
           ]
         },
         {
-          "description": "Style of Seb Mc Kinnon",
+          "description": "Style of Seb McKinnon",
           "enum": [
             "styleofsebmckinnon"
           ]
         },
         {
-          "description": "Style of Dan Mc Pharlin",
+          "description": "Style of Dan McPharlin",
           "enum": [
             "styleofdanmcpharlin"
           ]
         },
         {
-          "description": "Style of Tara Mc Pherson",
+          "description": "Style of Tara McPherson",
           "enum": [
             "styleoftaramcpherson"
           ]
         },
         {
-          "description": "Style of Ralph Angus Mc Quarrie",
+          "description": "Style of Ralph Angus McQuarrie",
           "enum": [
             "styleofralphangusmcquarrie"
           ]
         },
         {
-          "description": "Style of Ian Mc Que",
+          "description": "Style of Ian McQue",
           "enum": [
             "styleofianmcque"
           ]
@@ -8181,7 +8181,7 @@
       "image4": "https://strea.ly/StyleofCathleenMcAllister3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Cathleen Mc Allister",
+      "trigger": "Style of Cathleen McAllister",
       "visibleIf": {
         "style": [
           "styleofcathleenmcallister"
@@ -8196,7 +8196,7 @@
       "image4": "https://strea.ly/StyleofRobertMcCall3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Robert Mc Call",
+      "trigger": "Style of Robert McCall",
       "visibleIf": {
         "style": [
           "styleofrobertmccall"
@@ -8211,7 +8211,7 @@
       "image4": "https://strea.ly/StyleofFrankMcCarthy3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Frank Mc Carthy",
+      "trigger": "Style of Frank McCarthy",
       "visibleIf": {
         "style": [
           "styleoffrankmccarthy"
@@ -8226,7 +8226,7 @@
       "image4": "https://strea.ly/StyleofWinsorMcCay3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Winsor Mc Cay",
+      "trigger": "Style of Winsor McCay",
       "visibleIf": {
         "style": [
           "styleofwinsormccay"
@@ -8241,7 +8241,7 @@
       "image4": "https://strea.ly/StyleofFrederickMcCubbin3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Frederick Mc Cubbin",
+      "trigger": "Style of Frederick McCubbin",
       "visibleIf": {
         "style": [
           "styleoffrederickmccubbin"
@@ -8256,7 +8256,7 @@
       "image4": "https://strea.ly/StyleofToddMcFarlane3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Todd Mc Farlane",
+      "trigger": "Style of Todd McFarlane",
       "visibleIf": {
         "style": [
           "styleoftoddmcfarlane"
@@ -8271,7 +8271,7 @@
       "image4": "https://strea.ly/StyleofBarryMcGee3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Barry Mc Gee",
+      "trigger": "Style of Barry McGee",
       "visibleIf": {
         "style": [
           "styleofbarrymcgee"
@@ -8286,7 +8286,7 @@
       "image4": "https://strea.ly/StyleofDaveMcKean3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Dave Mc Kean",
+      "trigger": "Style of Dave McKean",
       "visibleIf": {
         "style": [
           "styleofdavemckean"
@@ -8301,7 +8301,7 @@
       "image4": "https://strea.ly/StyleofAngusMcKie3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Angus Mc Kie",
+      "trigger": "Style of Angus McKie",
       "visibleIf": {
         "style": [
           "styleofangusmckie"
@@ -8316,7 +8316,7 @@
       "image4": "https://strea.ly/StyleofSebMcKinnon3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Seb Mc Kinnon",
+      "trigger": "Style of Seb McKinnon",
       "visibleIf": {
         "style": [
           "styleofsebmckinnon"
@@ -8331,7 +8331,7 @@
       "image4": "https://strea.ly/StyleofDanMcPharlin3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Dan Mc Pharlin",
+      "trigger": "Style of Dan McPharlin",
       "visibleIf": {
         "style": [
           "styleofdanmcpharlin"
@@ -8346,7 +8346,7 @@
       "image4": "https://strea.ly/StyleofTaraMcPherson3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Tara Mc Pherson",
+      "trigger": "Style of Tara McPherson",
       "visibleIf": {
         "style": [
           "styleoftaramcpherson"
@@ -8361,7 +8361,7 @@
       "image4": "https://strea.ly/StyleofRalphAngusMcQuarrie3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Ralph Angus Mc Quarrie",
+      "trigger": "Style of Ralph Angus McQuarrie",
       "visibleIf": {
         "style": [
           "styleofralphangusmcquarrie"
@@ -8376,7 +8376,7 @@
       "image4": "https://strea.ly/StyleofIanMcQue3.webp",
       "link": "https://cheatsheet.strea.ly",
       "widget": "example",
-      "trigger": "Style of Ian Mc Que",
+      "trigger": "Style of Ian McQue",
       "visibleIf": {
         "style": [
           "styleofianmcque"
